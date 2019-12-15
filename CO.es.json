@@ -49,6 +49,107 @@
         ],
         "size": 15483273216
     },
+    "70010000000120": {
+        "id": "01001180021FA000",
+        "rightsId": "01001180021FA0000000000000000000",
+        "name": "Shovel Knight: Specter of Torment",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191210,
+        "nsuId": 70010000000120,
+        "category": [
+            "Acci\u00f3n",
+            "Aventura",
+            "Plataformas"
+        ],
+        "ratingContent": [
+            "Violencia moderada de fantasia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Yacht Club Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e85fa0f167d8ffa36591ed28b1177beb7e530641dd7ffa1a20182934d2f77aa2.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0789456fb8ba6d63a79ebf6b53fd057fc566a15f08295acc1c8f1524e9f06d21.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b8b7d729032ce3b3867f32ef4297881f993b7e9721bc4ce39ab7d685514f5f87.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b3cd0da0deefae2dfb6d758085543787dc37fff2de51cee2663830790f3a1160.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/81c106be567f22054ef8b317aba0ca3a6ea39235b2d914a78cc8e2bd0af55297.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/feda7033ae832745ea95f2ed508f7b7edba702c9e2cc2bd78f154b80727d55ac.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/449fb447abcc8ae81dea233383794ac54dd0a933ffb942bd643f0815c28e111d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a7368311bfee3528484d63b7d375cee463c7a2ab91a01ab2f0dd3509c6eec25a.jpg",
+        "intro": null,
+        "description": "Descargo de responsabilidad: Si ha comprado Shovel Knight: Treasure Trove para su sistema, no tendr\u00e1 que comprar Shovel Knight: Specter of Torment por separado. Este t\u00edtulo est\u00e1 incluido con todas las versiones de Shovel Knight: Treasure Trove.\n\n\u00a1Shovel Knight: Specter of Torment es la precuela de Shovel Knight y viene repleta de acci\u00f3n! Encarna al no muerto Specter Knight, siervo de la Hechicera, en su misi\u00f3n para reclutar un pelot\u00f3n de caballeros y crear la Orden Sin Cuartel. Equipado con su guada\u00f1a y su agilidad sobrenatural, puede derrapar por el suelo, escalar muros y dominar un arsenal de curiosas armas.\n \nSi cumple su cometido, Specter Knight podr\u00e1 recuperar su humanidad perdida y romper las cadenas de su servidumbre. Aunque, \u00bfqu\u00e9 crueles artima\u00f1as guarda la Hechicera en la manga?\n\nCaracter\u00edsticas:\nEscala paredes, salta sobre abismos y derrota a tus enemigos con el tajosalto. \u00a1La jugabilidad de Specter Knight prioriza el movimiento y la acci\u00f3n!\nColecciona y mejora birrias para desatar los nuevos ataques especiales.\nPon a prueba tu habilidad con la guada\u00f1a en nuevos logros y retos que incluyen revanchas contra jefes, retos de plataformeo \u00a1y mucho m\u00e1s!\nUna sombr\u00eda historia narrada con un toque ligero, con humor y con pasi\u00f3n.\n\u00a1Una banda sonora excepcional a cargo de Jake \"Virt\" Kaufman!\nEl bello y genuino estilo de Shovel Knight tiende puentes con el pasado. Dise\u00f1o, arte y audio homenajean a los d\u00edas de los 8 bits.\nUna jugabilidad equilibrada que da la bienvenida a los novatos y transportar\u00e1 a los veteranos al pasado.\nJefes desquiciados y personajes adorables.\n\u00a1Acepta un nuevo desaf\u00edo y descubre todos los secretos del mundo con la Partida Nueva+!",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 200278016
+    },
+    "70010000000121": {
+        "id": "010057D0021E8000",
+        "rightsId": "010057D0021E80000000000000000000",
+        "name": "Shovel Knight: Treasure Trove",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191210,
+        "nsuId": 70010000000121,
+        "category": [
+            "Acci\u00f3n",
+            "Aventura",
+            "Plataformas"
+        ],
+        "ratingContent": [
+            "Violencia moderada de fantasia",
+            "Uso de alcohol"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Yacht Club Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/034f98b36f34420795a57274e0fa177333ff928f813eefc9257b6c98ac2d9131.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f2f437958b59499a97205a59c1fac662061053a1a647b66552beb7893c46f3fd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/547148e891810f30047a9b44d208defe71836f370704832d8b0dc244d54e97c6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e153c46b2269ffea164c826bc6ece1de62842370f85fd3942726fee6ff4eef97.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4416765e69a72d91548aaac78cd6dd0833e86c12b4dda147ea03b84f0c04426b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/380e028901191683d5b38974918d2eb94564ab77c7e698a22fc0aaca8e4e8e63.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a8d3737b7e5ca06d0f8c9a54c8b6278100237e97b6da9232659d9fadab2d967d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2a52dd0769e5d8dba0d9d8d1aaf23803068b6350d2cbfb680df2fa113c23ec8f.jpg",
+        "intro": null,
+        "description": "\u00a1Shovel Knight: Treasure Trove es la colecci\u00f3n completa de Shovel Knight y contiene los 5 juegos de esta saga \u00e9pica! Cava, salta y carga en este fant\u00e1stico mundo inspirado en los juegos de 8-bits. Plataformeo pixelado, personajes memorables y una jugabilidad de acci\u00f3n-aventura de alt\u00edsimo nivel.\n\nIncluye lo siguiente:\nShovel Knight: Shovel of Hope \u2013 \u00a1Afila tu pala y empieza a cavar en la aventura que lo empez\u00f3 todo! Salta, combate y encuentra tesoros mientras tratas de derrotar a la Orden Sin Cuartel y a su vil l\u00edder, la Hechicera.\n\nShovel Knight: Plague of Shadows \u2013 \u00a1Prepara tus pociones para convertirte en el man\u00edaco alquimista Plague Knight en su aventura para conseguir la poci\u00f3n definitiva! Combina componentes explosivos para crear bombas personalizadas, encuentra nuevos objetos, \u00e1reas y jefes e incluso un burbujeante romance.\n\nShovel Knight: Specter of Torment \u2013 \u00a1Enarbola tu guada\u00f1a en la precuela de Shovel Knight! Toma el control de Specter Knight, domina un nuevo arsenal, derrota a tus enemigos y s\u00fabete por las paredes en niveles redise\u00f1ados de arriba abajo. \u00a1Convi\u00e9rtete en el segador, descubre tu melanc\u00f3lico pasado y recluta a la Orden Sin Cuartel!\n\nShovel Knight: King of Cards \u2013 \u00a1Ponte las doradas botas de King Knight en el mayor y m\u00e1s noble juego de Shovel Knight! \u00a1Salta, carga con hombro, re\u00fane s\u00fabditos y crea tu propia estrategia en esta precuela para convertirte en el Rey de Naipes!\n\nShovel Knight Showdown \u2013 Vence en combates locales de hasta 4 jugadores y arrambla con gemas o toma el control de tu personaje favorito para adentrarte en el Modo Historia. Domina todos los movimientos, explora una vasta cantidad de objetos y escenarios y descubre nuevas revelaciones en este juego de lucha y plataformas.\n\nCaracter\u00edsticas:\n\u2022 El bello y genuino estilo de Shovel Knight tiende puentes con el pasado. Dise\u00f1o, arte y audio homenajean a los d\u00edas de los 8 bits.\n\n\u2022 Sin embargo, la t\u00e9cnica de hoy en d\u00eda aporta toques de modernidad a Shovel Knight: animaciones detalladas, fondos con paralax multicapa y un dise\u00f1o de juego evolucionado.\n\n\u2022 \u00a1Una banda sonora excepcional a cargo de Jake \"Virt\" Kaufman con canciones adicionales de Manami Matsumae!\n\n\u2022 Amasa riquezas para mejorar tu armadura y armamento.\n\n\u2022 \u00a1Fondos y animaciones vivos y detallados! \u00a1Bellos p\u00edxeles, grandes como pu\u00f1os!\n\n\u2022 Jefes desquiciados y personajes adorables.\n\n\u2022 Una jugabilidad equilibrada que da la bienvenida a los novatos y transportar\u00e1 a los veteranos al pasado.\n\n\u2022 Un leve toque de narrativa lleno de humor, ligereza y emotividad.\n\n\u2022 \u00a1Revisita la aventura y descubre todos los secretos de su mundo con Partida+!\n\n\u2022 Modo reto \u2013 \u00a1Un completo modo con m\u00e1s de 50 niveles diferentes que suben la apuesta en todos los sentidos!\n\n\u2022 Cambio de cuerpo - \u00bfAlguna vez has querido que Shovel Knight fuese chico, o que Shield Knight fuese chica? Bueno, ahora puedes cambiarlos tanto como quieras, ya que \u00a1tenemos nuevos cuerpos para todos los personajes principales de Shovel of Hope!\n\n\u2022 \u00a1Cooperativo! - \u00a1Llama a un amigo y juega a Shovel of Hope como aventura cooperativa!",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 325058560
+    },
     "70010000000141": {
         "id": "01000320000CC000",
         "rightsId": "01000320000CC0000000000000000000",
@@ -857,7 +958,7 @@
             "ko",
             "zh"
         ],
-        "size": 25377636352
+        "size": 25406996480
     },
     "70010000001526": {
         "id": "0100331005E8E000",
@@ -1993,7 +2094,8 @@
             "Sangre",
             "Temas insinuantes",
             "Violencia",
-            "Interacci\u00f3n de usuarios"
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
         ],
         "numberOfPlayers": 1,
         "rating": 13,
@@ -2388,7 +2490,7 @@
         "developer": null,
         "publisher": "Epic Games",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f7a7aaecd2c85c4e8ea1729539e023e55b844701d0e660be6fc2447467f5d4cc.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8b6864e5f6765c930b55516a16af7b2e2ccb32eb2cd9af42f5100de182aee181.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/b90ced2ecb8bbc0e6c87ccbea087ee3434ce72f7a35cbb6408e438e482fc8095.jpg",
             "https://img-eshop.cdn.nintendo.net/i/ae4c533113f88919e73cf0bacba01f1e25b080d98d040598e8dc1c692535cb3e.jpg",
@@ -2410,7 +2512,7 @@
             "ru",
             "ko"
         ],
-        "size": 8340373504
+        "size": 8869904384
     },
     "70010000011410": {
         "id": "01009EA00B714000",
@@ -2459,7 +2561,7 @@
             "zh",
             "zh"
         ],
-        "size": 1506803712
+        "size": 1570766848
     },
     "70010000011664": {
         "id": "010096000B3EA000",
@@ -2609,7 +2711,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20181108,
+        "releaseDate": 20191212,
         "nsuId": 70010000012305,
         "category": [
             "Acci\u00f3n",
@@ -2643,6 +2745,7 @@
             "ja",
             "en",
             "es",
+            "pt",
             "fr",
             "de",
             "it",
@@ -2941,7 +3044,7 @@
             "zh",
             "zh"
         ],
-        "size": 1639972864
+        "size": 1669332992
     },
     "70010000013704": {
         "id": "010044500C182000",
@@ -3163,6 +3266,7 @@
         "intro": null,
         "description": "ENFR\u00c9NTATE A LOS PISTOLEROS M\u00c1S LETALES DE LA HISTORIA\nDesde minas de oro hasta cantinas, Call of Juarez: Gunslinger es un aut\u00e9ntico homenaje a las historias del salvaje Oeste. Vive el \u00e9pico y violento viaje de un despiadado cazarrecompensas que va tras el rastro de los forajidos m\u00e1s infames del Oeste. Borroneando las fronteras entre hombre y mito, esta aventura repleta de enfrentamientos memorables desvela la verdad que se oculta detr\u00e1s de algunas de las mayores leyendas del viejo Oeste.\nDA CAZA A LOS LEGENDARIOS FORAJIDOS\nBilly el Ni\u00f1o, Pat Garrett, Jesse James... Enfr\u00e9ntate a los pistoleros m\u00e1s infames del salvaje Oeste y vive las historias que se ocultan detr\u00e1s de las leyendas.\nCONVI\u00c9RTETE EN EL MEJOR DEL OESTE\nPersonaliza tus habilidades y domina tus armas para realizar combos letales y convertirte en el mejor pistolero que se haya visto en el salvaje Oeste.\nREVIVE LA GLORIA DEL SALVAJE OESTE\n\u00c1brete paso por las tierras salvajes y los impresionantes paisajes del viejo Oeste y vive la \u00e9pica aventura de un despiadado cazarrecompensas en un viaje repleto de intensos tiroteos.\nMEJORADO PARA NINTENDO SWITCH\u2122\nSi\u00e9ntete como un aut\u00e9ntico pistolero gracias al control de movimiento y la vibraci\u00f3n HD.",
         "languages": [
+            "ja",
             "en",
             "es",
             "fr",
@@ -3171,7 +3275,7 @@
             "pt",
             "ru"
         ],
-        "size": 2668625920
+        "size": 2852126720
     },
     "70010000014303": {
         "id": "01003A400C3DA000",
@@ -3241,7 +3345,8 @@
             "Referencia a drogas",
             "Desnudez parcial",
             "Lenguaje fuerte",
-            "Violencia"
+            "Violencia",
+            "Compras dentro del juego"
         ],
         "numberOfPlayers": 2,
         "rating": 17,
@@ -3312,7 +3417,7 @@
             "ru",
             "zh"
         ],
-        "size": 27102543872
+        "size": 26122125312
     },
     "70010000015307": {
         "id": "01003BD00CAAE000",
@@ -3710,7 +3815,7 @@
             "ru",
             "ko"
         ],
-        "size": 13449035776
+        "size": 13511950336
     },
     "70010000016904": {
         "id": "0100E5600D446000",
@@ -3756,7 +3861,7 @@
             "de",
             "it"
         ],
-        "size": 6169821184
+        "size": 6202327040
     },
     "70010000017136": {
         "id": "010029600D56A000",
@@ -3897,7 +4002,7 @@
             "https://img-eshop.cdn.nintendo.net/i/1d0c89252b0411bae5b6e74b893e5edcf946c6326009dcc79a379d4c1c412c7a.jpg",
             "https://img-eshop.cdn.nintendo.net/i/b184156e7dc2c10fc7e859c8071a3947cdfe1f089d7c250871d9fa3dc48b415a.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a09b6b2785e70dd5126220100735097133b1ec58e370f25d279aae259c63586c.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bf014095a0bffdf12934a5b2f7faf3117fc45ae46a32fb46dee6c03e90b11092.jpg",
         "intro": "Defiende el planeta a trav\u00e9s de la acci\u00f3n a toda velocidad de los mech",
         "description": "La luna se ha roto en mil pedazos, y el cielo se ha cubierto de una luz roja, esto marca el inicio de una nueva era apocal\u00edptica\u2026 donde para sobrevivir deber\u00e1s luchar. Como un mercenario, defiende el planeta a trav\u00e9s de combates a toda velocidad contra terribles robots en una serie de misiones mientras piloteas tu nave, Arsenal, un mech totalmente personalizable. Equipa tu Arsenal con una gran cantidad de modificaciones y armas, obt\u00e9n m\u00e1s de los enemigos ca\u00eddos, e interc\u00e1mbialas para satisfacer tu estrategia y  derrotar las incontables amenazas.\n\nEn este nuevo juego de acci\u00f3n de Kenichiro Tsukuda (Armored Core) y el dise\u00f1ador de mech Shoji Kawamori (Super Dimensional Fortress Macross), tu entorno es tu aliado. Re\u00fane y utiliza la energ\u00eda Femto en el campo de batalla para mejorar tus estad\u00edsticas y crear poderosos espejismos, o empu\u00f1a objetos como autos y letreros de calles para utilizarlos como armas y proyectiles en combates cuerpo a cuerpo. Para obtener a\u00fan m\u00e1s poder, mejora tus habilidades f\u00edsicas de combate y aprende nuevas habilidades a trav\u00e9s de la modificaci\u00f3n de cuerpo. Tambi\u00e9n ser\u00e1 muy \u00fatil cuando salgas de tu Arsenal y luches a pie con armas y habilidades especiales.\n\n\u2022 Defiende el planeta a trav\u00e9s de combates mech de alta velocidad contra robots corruptos\n\u2022 Kenichiro Tsukuda, conocido por su trabajo en el desarrollo de la serie Armored Core, y su talentoso equipo han desarrollado este nuevo t\u00edtulo con el objetivo de convertirlo en \u201cel mejor juego de acci\u00f3n mech\u201d\n\u2022 El avatar del jugador y el Arsenal son totalmente personalizables gracias a la gran variedad de opciones\n\u2022 Los enemigos derrotados pueden dejan caer municiones y armas, que el jugador puede obtener y usar\n\u2022 Organ\u00edzate con otros tres jugadores* para destruir jefes tit\u00e1nicos en el modo cooperativo en l\u00ednea**\n\u2022 Dise\u00f1os mech creados por el Sr. Kawamori, quien tambi\u00e9n trabaj\u00f3 en la serie Armored Core y en la serie Super Dimension Fortress Macross\n",
         "languages": [
@@ -3908,7 +4013,7 @@
             "it",
             "ko"
         ],
-        "size": 7010779136
+        "size": 7204765696
     },
     "70010000018547": {
         "id": "010040600C5CE000",
@@ -3956,7 +4061,7 @@
             "zh",
             "zh"
         ],
-        "size": 957349888
+        "size": 1118830592
     },
     "70010000018600": {
         "id": "0100BF600D83A000",
@@ -4032,7 +4137,7 @@
             "https://img-eshop.cdn.nintendo.net/i/6dfc2cdf521905e77f83afe71baa1d9a879671e4be10380d792ecf2fc3f6d37a.jpg",
             "https://img-eshop.cdn.nintendo.net/i/c60ee8da720873c67d912c4a5b804060a3da84de3c8b2775a63c53859b7ec5c9.jpg",
             "https://img-eshop.cdn.nintendo.net/i/254c4bee0720f5c64a7cd73af4a1265835414918049468c8136a9801d71b50b0.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/7b2fa69fa4c23d2b8d30fb8d8c2ea9985683a2779cb7d6bdb7a1aa4c8848eddd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/afed8fe2172393a3297e26cf3a7af1ad19149f14f0c915e0fda4e53109769d8e.jpg",
             "https://img-eshop.cdn.nintendo.net/i/4b62973a57f6de81a69e5539f96cde9a323d3fd0aefeca5440227e68a3214ace.jpg",
             "https://img-eshop.cdn.nintendo.net/i/d772fd1fcba9d6c9216c5c4542d7513f00a369c6efe4e11f8c3507d33aacc2c1.jpg"
         ],
@@ -4054,6 +4159,50 @@
             "zh"
         ],
         "size": 7766802432
+    },
+    "70010000018689": {
+        "id": "01002BA00D662000",
+        "rightsId": null,
+        "name": "Pine",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191126,
+        "nsuId": 70010000018689,
+        "category": [
+            "Aventura",
+            "Juego de rol"
+        ],
+        "ratingContent": [
+            "Violencia de fantasia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Kongregate",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/eca82e4bf14b981914344824dc929f6b92ceb2a814e69f90c6996738ccccccc9.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/75e69bb1687f6c78f21bd6516615f56eac16277355328e1ff2eefb38f594f12c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/771798d3d5a47d68894e40d5344d16b570ab7071ed468849e83a26898a6ea9b6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8ef522c8561dfc039e700b78c92ebce23bbadeb785d1b5269db648d5206f9f19.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bd6a01efec534fabea1bdf9059165eae38052fbc7e8d36faaa93a4f0e1a20cb6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/746638b961844112e53e5d8240ab56f91122756d49368c78c3034daadbb286bc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7ae9d0907220d4657063a3411d6b6023991a805664bff7f34b46e27941f318e0.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4226059e4e9d81d32895c1e667a79b017fd3214cec5560375bec79388496b3d1.jpg",
+        "intro": "Un juego de aventura y acci\u00f3n en mundo abierto. Transcurre en un mundo ficticio en el que los humanos nunca llegaron a lo m\u00e1s alto de la cadena alimenticia.",
+        "description": "UNA HISTORIA DE HUMANOS\nPine es un juego de simulaci\u00f3n, aventura y acci\u00f3n en un mundo abierto. Transcurre en el precioso mundo del Albamare. Encarnar\u00e1s a Hue, un joven inteligente que tendr\u00e1 que explorar, comerciar y abrirse camino a la fuerza en un mundo vibrante lleno de criaturas mucho m\u00e1s listas que los humanos.\n\nSU HISTORIA SER\u00c1 LA TUYA\nMientras buscas un nuevo hogar para tu tribu, tendr\u00e1s que enfrentarte a la ecolog\u00eda de gran escala de Albamare. Para prepararte, tendr\u00e1s que explorar, hacer trueques, hablar, fabricar objetos y luchar en seis biomas diferentes, con y contra un variopinto elenco de especies que no se limitar\u00e1n a ayudarte.\n\nUNA LUCHA POR LA SUPERVIVENCIA\nEn el mundo abierto de Pine ir\u00e1n pasando cosas incluso sin tu participaci\u00f3n. Todos los organismos est\u00e1n vivos e intentar\u00e1n hacer todo lo posible por sobrevivir. Puedes hacerte amigo de una especie, luchar a su lado o atacarla, robarle la comida u obligarla a abandonar su h\u00e1bitat. Todo esto har\u00e1 que las especies se muevan por todo el espectro ecol\u00f3gico.",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru"
+        ],
+        "size": 2570059776
     },
     "70010000018692": {
         "id": "010018300D006000",
@@ -4135,7 +4284,7 @@
             "es",
             "fr"
         ],
-        "size": 3125805056
+        "size": 3202351104
     },
     "70010000018695": {
         "id": "01007300020FA000",
@@ -4294,7 +4443,7 @@
             "https://img-eshop.cdn.nintendo.net/i/57155cb2a7b551569a26036dcda9e7470cf59f8b35379e4cb7a6e0621d0d67c3.jpg",
             "https://img-eshop.cdn.nintendo.net/i/30f11731f14a5ad3f4e201407e2bfaabf29018985732190297e7cd0b5d813612.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1856ddf036a5f8c098ae3c9ae00721ac23b5e34a31fb7f4cb4aa8664567a90d2.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/751341ef6eeb90593f0f1c9866f1a6ec53c46c847e51fc6512b03c32683993fe.jpg",
         "intro": "\u00a1Es hora de festejar y todos est\u00e1n invitados! ",
         "description": "\u00a1\u00danete a Mario\u2122, Sonic y a sus amigos en eventos deportivos llenos de acci\u00f3n en Nintendo Switch\u2122! Usa tus mejores movimientos en la pista, el gimnasio, el cuadril\u00e1tero o en el agua en docenas de diferentes juegos grupales que todos disfrutar\u00e1n.\n \n\u00a1Ve en patineta, surfea o corre para llegar a la cima! M\u00e1s de 30 eventos para dominar en esta competencia ol\u00edmpica llena de diversi\u00f3n. Hay muchas maneras de probar tus habilidades con tus amigos en el modo multijugador. \n\n\u00a1El equipo est\u00e1 completo! Juega con Mario\u2122, con Sonic o elige un miembro del famoso y diverso elenco de los personajes de tus juegos favoritos. \n\nSum\u00e9rgete en los Eventos fantas\u00eda que mezclan la realidad con un caos fant\u00e1stico. Desl\u00edzate monta\u00f1a abajo en una pista de obst\u00e1culos con tu aerodeslizador, compite por el control del territorio con tus movimientos de karate tan r\u00e1pidos como un rayo o machaca la mayor\u00eda de los objetivos dentro de una mansi\u00f3n japonesa tradicional.\n\nNo querr\u00e1s perderte el modo historia \u00e9pico que te enviar\u00e1 a 1964 a competir en eventos deportivos cl\u00e1sicos en 2D. \n\nJuega como quieras en tu Nintendo Switch\u2122. Puedes jugar con los controles de movimiento y con los botones, en modos de juego de un solo jugador y multijugador, local con pantalla dividida y en l\u00ednea.",
         "languages": [
@@ -4401,7 +4550,7 @@
             "ru",
             "ko"
         ],
-        "size": 12119441408
+        "size": 12626952192
     },
     "70010000019989": {
         "id": "010026000E466000",
@@ -4499,7 +4648,7 @@
             "ko",
             "zh"
         ],
-        "size": 1827667968
+        "size": 2168455168
     },
     "70010000020033": {
         "id": "01006BB00C6F0000",
@@ -4733,7 +4882,7 @@
             "de",
             "it"
         ],
-        "size": 8161067008
+        "size": 8165261312
     },
     "70010000020983": {
         "id": "0100BFE00E9CA000",
@@ -5009,7 +5158,7 @@
             "fr",
             "pt"
         ],
-        "size": 124780544
+        "size": 187695104
     },
     "70010000026262": {
         "id": "0100ABF008968000",
@@ -5059,6 +5208,139 @@
             "zh"
         ],
         "size": 10244587520
+    },
+    "70010000027060": {
+        "id": "01008B20022AA000",
+        "rightsId": null,
+        "name": "Shovel Knight: King of Cards",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191210,
+        "nsuId": 70010000027060,
+        "category": [
+            "Aventura",
+            "Acci\u00f3n",
+            "Plataformas"
+        ],
+        "ratingContent": [
+            "Violencia moderada de fantasia",
+            "Uso de alcohol"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Yacht Club Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a2d8a816016a8507cf273f3dd8e49715505cdf5d52b049a21c710c3125e51f5f.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4416765e69a72d91548aaac78cd6dd0833e86c12b4dda147ea03b84f0c04426b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2d49c3c46fd7c70c02a1db10f8d63c596c1eb85aef2a4d08ac73a54471f392fb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ca956d9988fdf9168c642b99ee79444d77fa3b4e2da0e3af91c05b9623979f93.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/56dd9212ef054917d3a2c01244b82ac85ecbdd2d25066379476e4d1ea736ec8a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d1eab1ae7147b6ba6df6849e1eb4cc6115a7aaad4fa8a5be9fb351b113827ca2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bbf8db27951ddd2609efe3d5d91f6db91d5c2b3760a7a0f4028eea7c59ddd656.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0ed8db82af3c1a332393836fbacb4d443c4d4ce4caea38f6704514186c56e343.jpg",
+        "intro": null,
+        "description": "\u00a1Se hace saber que, por orden de King Knight, la mayor aventura de Shovel Knight: Treasure Trove es sin duda Shovel Knight: King of Cards! \u00a1Ponte las doradas botas de King Knight y salta, gira y carga con hombro en tu propio reino en esta noble precuela. \u00a1Consigue naipes, derrota a tus contrincantes y crea tu propio mazo de Joustus! Viaja a extra\u00f1os mundos, recluta nuevos s\u00fabditos, vence a los jueces de Joustus y convi\u00e9rtete en el Rey de Naipes. El mejor plataformeo, gr\u00e1ficos exquisitos, una historia entra\u00f1able, niveles llenos de acci\u00f3n, m\u00fasica de ensue\u00f1o, nuevos jefes y mucho m\u00e1s te aguarda en Shovel Knight: King of Cards.\n\nCaracter\u00edsticas:\n\u2022 \u00a1Contempla el origen de la saga! Reencuentra caras familiares, conoce nuevos personajes y descubre c\u00f3mo King Knight lleg\u00f3 hasta el trono de Fortaleza del Orgullo en la aventura de Shovel Knight m\u00e1s incre\u00edblemente enorme!\n\n\u2022 \u00a1Machaca enemigos y obst\u00e1culos con tu carga con hombro! El florido estilo de juego de King Knight implica saltos, rebotes y cargas por doquier.\n\n\u2022 \u00a1Toma parte en Joustus, el nuevo juego de cartas coleccionables creado espec\u00edficamente para King of Cards! Crea tu mazo, encuentra 120 cartas \u00fanicas, derrota a tus contrincantes y convi\u00e9rtete en vencedor de todas las Casas de Joustus.\n\n\u2022 Colecciona infinidad de tesoros, legados, armaduras, habilidades y s\u00fabditos mientras navegas por los aires en busca de la Corona de Joustus.\n\n\u2022 Pon tu habilidad a prueba con los nuevos niveles de Hitos y Desaf\u00edos, con revanchas contra jefes, retos plataformeros personalizados y mucho m\u00e1s.\n\n\u2022 \u00a1Disfruta del mejor aspecto visual jam\u00e1s creado por Yatch Club Games! Su bello e inspirado estilo 8-bits tiende puentes entre ayer y hoy.\n\n\u2022 \u00a1Una nueva banda sonora excepcional de Jake \u201cVirt\u201d Kaufman!\n\n\u2022 Su equilibrada jugabilidad resultar\u00e1 c\u00f3moda para los novatos y despertar\u00e1 los mejores recuerdos de los expertos.\n\n\u2022 \u00a1Acepta un nuevo desaf\u00edo y multiplica tus ganancias con Nueva Partida+!",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 217055232
+    },
+    "70010000027069": {
+        "id": "0100B380022AE000",
+        "rightsId": null,
+        "name": "Shovel Knight Showdown",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191210,
+        "nsuId": 70010000027069,
+        "category": [
+            "Acci\u00f3n",
+            "Multijugador",
+            "Peleas",
+            "Plataformas"
+        ],
+        "ratingContent": [
+            "Violencia moderada de fantasia"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Yacht Club Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/425a5441ff8da7bd0648d9eed94cef9ae99496dfa0ddd74ac0177b1d85f3be57.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/380e028901191683d5b38974918d2eb94564ab77c7e698a22fc0aaca8e4e8e63.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/42a30a874fb97a2fff628cf526c5dcfb94081522c341c4020029501aec0b7fca.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/adc2618e5f4d1975a6a7b89e4ce818d2af1b2df84d065831d460aa282da9aaa5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/55d65216d3b1f5041fcf1d08d92140427eff8a6082a3b6c9890f38903cceff5e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a8d3737b7e5ca06d0f8c9a54c8b6278100237e97b6da9232659d9fadab2d967d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2dc3bb82577568b384dea26ae52bc2773c5a8d5d5b75c833f1db79f7fd6094dc.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/793670a28f3998ccad837ce3b6f0e08de43ec98afb5cc3e730ab6d1362af3006.jpg",
+        "intro": null,
+        "description": "Shovel Knight Showdown es la experiencia de lucha y plataformas definitiva. Vence en combates locales de hasta 4 jugadores y arrambla con gemas controlando a tu h\u00e9roe o villano favorito de la saga de Shovel Knight: Treasure Trove. J\u00fantate con amigos en choques multijugador sin fin o escoge entre m\u00e1s de 16 personajes jugables en el Modo Historia, cada uno con una historia propia. \u00a1Domina todos los movimientos, explora una vasta cantidad de objetos y escenarios y descubre nuevas revelaciones en Shovel Knight Showdown!\n \n \u00a1Cuando una cat\u00e1strofe m\u00e1gica crea un mundo de combates sin fin, los h\u00e9roes y villanos de la saga de Shovel Knight deber\u00e1n encontrar el origen del desastre y desfacer el entuerto! Encarna a tu personaje favorito (a solas o con un amigo en combates cooperativos), enfr\u00e9ntate a poderosos rivales y perfecciona tu lucha plataformera en distintos modos de pr\u00e1ctica antes del encuentro final. Desbloquea nuevos contenidos y revisita Shovel Knight Showdown una y otra vez para conocer la inmensa variedad de modos individuales y multijugador local, de funcionalidades y de personalizaci\u00f3n.\n\nCaracter\u00edsticas:\n\u2022 \u00a1Encarna a los h\u00e9roes y villanos clave de Shovel Knight\u2026 algunos de ellos, por primera vez! Aprende a controlar a m\u00e1s de 16 personajes jugables, como Shovel Knight, Shield Knight, Black Knight, la Hechicera y todos los caballeros de la Orden Sin Cuartel!\n\n\u2022 \u00a1Compite en duelos singulares o fren\u00e9ticas batallas campales para 4 jugadores contra adversarios locales en los modos Choque de Gemas, Showdown y muchos m\u00e1s!\n\n\u2022 \u00a1Juega con tus amigos en batallas cooperativas contra la IA (o contra ellos mismos) y crea tus d\u00faos de ensue\u00f1o entre una enorme multitud de personajes!\n\n\u2022 \u00a1Combate en el Modo Historia, un viaje multinivel \u00fanico para cada personaje! \u00a1El h\u00e9roe que t\u00fa elijas se enfrentar\u00e1 a un rival, superar\u00e1 puntuaciones y contrincantes, se relajar\u00e1 con un minijuego o dos y, con suerte, completar\u00e1 su historia en un encuentro final completamente nuevo!\n\n\u2022 \u00a1Explora una barbaridad de niveles inspirados por personajes y escenarios famosos de Shovel Knight, as\u00ed como much\u00edsimos escenarios completamente nuevos!\n\n\u2022 Prepara y perfecciona tus movimientos en el modo pr\u00e1ctica, juega como t\u00fa quieras eligiendo entre multitud de opciones de combate y pule tus habilidades en retos traicioneros y el ca\u00f3tico Modo Objetivo.\n\n\u2022 Nuevas canciones complementan la galardonada banda sonora compuesta por Jake \"Virt\" Kaufman.",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 205520896
+    },
+    "70010000027329": {
+        "id": null,
+        "rightsId": null,
+        "name": "Bravely Default\u2122 II",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 2020,
+        "nsuId": 70010000027329,
+        "category": [
+            "Juego de rol"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e82909ea3707046616d1f1f90dd986b614fff33eec116d1064412a36c7b2e05e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1564e23922995d167263aa0b03cd9ad4c0bbe66c75d53917f3a0cd96b1dffb6c.jpg",
+        "intro": null,
+        "description": "Un nuevo mundo, una nueva historia y nuevos H\u00e9roes de la Luz esperan por ti, \u00a1en esta original experiencia de juego de rol que llegar\u00e1 en 2020 a la consola Nintendo Switch! Esta secuela directa del juego Bravely Default fue creada por el equipo responsable de la serie Bravely y Octopath Traveler, adem\u00e1s incluye m\u00fasica de Revo, el aclamado compositor de la banda sonora original de Bravely Default.",
+        "languages": [
+            "ja"
+        ],
+        "size": 0
     },
     "70030000005101": {
         "id": "0100ED800CBFC000",
@@ -7819,12 +8101,12 @@
     "70050000011731": {
         "id": "0100F2200C98500C",
         "rightsId": null,
-        "name": "DLC 5",
+        "name": "Sindel",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20191231,
+        "releaseDate": 20191203,
         "nsuId": 70050000011731,
         "category": null,
         "ratingContent": [
@@ -7841,9 +8123,9 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b1e006ac3ccb675a12745255f608750fb812ecfd971710add0381fbb88cf3476.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/65597139e04ed6c0e5a748fe10684598590e9c4321c531e865806e57b6e77e4b.jpg",
         "intro": null,
-        "description": null,
+        "description": "La antigua reina de Edenia no se detendr\u00e1 ante nada para mantener su puesto. Al sentir que su trono estaba en peligro cuando Shao Kahn conquist\u00f3 su reino, Sindel traicion\u00f3 a su esposo y a su pueblo para conservar su posici\u00f3n de privilegio. Ahora como esposa de Shao Kahn y reina del Mundo Exterior disfruta de poder y riqueza m\u00e1s all\u00e1 de los l\u00edmites de la imaginaci\u00f3n. Buena suerte a cualquiera que intente quit\u00e1rselos.\n",
         "languages": null,
         "size": 4194304
     },
@@ -8005,12 +8287,12 @@
     "70050000011737": {
         "id": "0100F2200C98500D",
         "rightsId": null,
-        "name": "DLC 11",
+        "name": "Paquete de Skins Horror g\u00f3tico",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20191231,
+        "releaseDate": 20191203,
         "nsuId": 70050000011737,
         "category": null,
         "ratingContent": [
@@ -8027,9 +8309,9 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b1e006ac3ccb675a12745255f608750fb812ecfd971710add0381fbb88cf3476.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ff7d3742374045b51ed0c65c74a92d56123a30ae6326ffd375cfb6d4cd6068bd.jpg",
         "intro": null,
-        "description": null,
+        "description": "Este art\u00edculo ya est\u00e1 incluido en el Paquete de Kombate.\n\nTres nuevas skins de personaje. El Paquete de Skins Horror g\u00f3tico incluye las skins de Cetrion Diosa de los condenados, Geras Monstruo de Kronika y Raiden Empalador.",
         "languages": null,
         "size": 4194304
     },
@@ -12272,6 +12554,380 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000018086": {
+        "id": "01009EA00B7152BE",
+        "rightsId": null,
+        "name": "Horizon Chase Turbo - Rookie Series",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191128,
+        "nsuId": 70050000018086,
+        "category": null,
+        "ratingContent": [
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "AQUIRIS",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e7c90b62ea4d44d802bf37d853cb158dc32e982fd7c1652a18341618149a0794.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/81bbcc8e2c2b04f91cd2b80bd251c8b92ca103c20bba1c72d1bc5ef15454c506.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/47a4cdcfef02770127d6157ad4ce93d11b3b4e073c82e25486230cb15eaf03f1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/437ca8c842a72a201326c38434f9ac5b675de6646da39c2442374eda961ee656.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/986f771d3482ee9910327a8ef9bbf9b3eac0bbcb8a6e6d9c6b979bac7101fc9e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3959c301498ebd7d795371622f4301b3187eae7a72613bc501483ae19e3d4659.jpg",
+        "intro": "Una nueva campa\u00f1a dise\u00f1ada para jugadores principiantes. \u00a1Re\u00fane a tus amigos y familiares en las Series Rookie!",
+        "description": "HORIZON CHASE TURBO - DLC DE LAS SERIES ROOKIE\nUna nueva campa\u00f1a dise\u00f1ada para jugadores principiantes. \u00a1Re\u00fane a tus amigos y familiares en las Series Rookie!\n\nLA CAMPA\u00d1A DE LAS SERIES ROOKIE\nLa nueva campa\u00f1a est\u00e1 dirigida a jugadores j\u00f3venes e inexpertos, ya que les ense\u00f1ar\u00e1 los conceptos b\u00e1sicos del juego en un ambiente acogedor, donde pueden evolucionar a su propio ritmo. Sin tablas de clasificaci\u00f3n, monedas coleccionables ni gesti\u00f3n de combustible, el DLC permite a los jugadores centrarse en aprender los aspectos principales de las carreras.\n\nUN NUEVO COCHE PERFECTO PARA PRINCIPIANTES\nRookie, un nuevo veh\u00edculo que es perfecto para jugadores que no tienen mucha experiencia con los juegos de carreras. Ofrece un excelente manejo y recibe actualizaciones autom\u00e1ticas a medida que el jugador progresa en la campa\u00f1a.\n\nLA LICENCIA DE CONDUCIR\nCuando los jugadores superen las Series Rookie desbloquear\u00e1n un Carnet de Conducir especial, que garantiza que est\u00e9n listos para el World Tour y otros modos de juego.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000018285": {
+        "id": "0100B6400CA5700D",
+        "rightsId": null,
+        "name": "Parte editable para el Outer \"Geralt's Hairstyle\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191204,
+        "nsuId": 70050000018285,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Bajo contenido de sangre",
+            "Lenguaje moderado",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f33c3019efb691e874688c34cbe1ce8ec21b8bd486315abfb7fa03d65fd5fc73.jpg",
+        "intro": "Objeto de colaboraci\u00f3n\nParte editable para el Outer \"Geralt's Hairstyle\"",
+        "description": "Esto es una personalizaci\u00f3n que te permitir\u00e1 cambiar el peinado de tu Outer al estilo del peinado de Geralt.\n\n\u203bSe requiere la versi\u00f3n completa del juego DAEMON X MACHINA para utilizar este contenido.\n\u203bEste contenido no es equipo y es totalmente cosm\u00e9tico. No habr\u00e1 cambios en los estados al usar este contenido.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000018461": {
+        "id": "0100B6400CA5700B",
+        "rightsId": null,
+        "name": "Outer Suit \"Geralt's Outfit\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191204,
+        "nsuId": 70050000018461,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Bajo contenido de sangre",
+            "Lenguaje moderado",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f08924351928a8e5f619d874945368fef8155918974143b0f432b1fbe887ae45.jpg",
+        "intro": "Objeto de colaboraci\u00f3n\nOuter Suit \"Geralt's Outfit\" (solo masculino)",
+        "description": "Este es un art\u00edculo que te permite cambiar tu Outer Suit al traje de Geralt.\n\n\u203bSe requiere la versi\u00f3n completa del juego DAEMON X MACHINA para utilizar este contenido.\n\u203bEste contenido no es equipo y es totalmente cosm\u00e9tico. No habr\u00e1 cambios en los estados al usar este contenido.\n\u203bEste contenido est\u00e1 disponible \u00fanicamente para Outers masculinos, no podr\u00e1 ser utilizado en Outers femeninos.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000018462": {
+        "id": "0100B6400CA57014",
+        "rightsId": null,
+        "name": "Parte editable para el Outer \"Ciri's Scar\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191204,
+        "nsuId": 70050000018462,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Bajo contenido de sangre",
+            "Lenguaje moderado",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bd1c7220d8be36f51702d65a9bce523cf1c0fc21b2e363fb6390c79f5a793fa0.jpg",
+        "intro": "Objeto de colaboraci\u00f3n\nParte editable para el Outer \"Ciri's Scar\"",
+        "description": "Esto es una personalizaci\u00f3n que te permitir\u00e1 cambiar la cicatriz de tu Outer a la cicatriz de Ciri.\n\n\u203bSe requiere la versi\u00f3n completa del juego DAEMON X MACHINA para utilizar este contenido.\n\u203bEste contenido no es equipo y es totalmente cosm\u00e9tico. No habr\u00e1 cambios en los estados al usar este contenido.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000018463": {
+        "id": "0100B6400CA57015",
+        "rightsId": null,
+        "name": "Parte editable para el Outer \"Geralt's Eyes\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191204,
+        "nsuId": 70050000018463,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Bajo contenido de sangre",
+            "Lenguaje moderado",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f33c3019efb691e874688c34cbe1ce8ec21b8bd486315abfb7fa03d65fd5fc73.jpg",
+        "intro": "Objeto de colaboraci\u00f3n\nParte editable para el Outer \"Geralt's Eyes\"",
+        "description": "Esto es una personalizaci\u00f3n que te permitir\u00e1 cambiar los ojos de tu Outer por los ojos de Geralt.\n\n\u203bSe requiere la versi\u00f3n completa del juego DAEMON X MACHINA para utilizar este contenido.\n\u203bEste contenido no es equipo y es totalmente cosm\u00e9tico. No habr\u00e1 cambios en los estados al usar este contenido.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000018464": {
+        "id": "0100B6400CA57012",
+        "rightsId": null,
+        "name": "Parte editable para el Outer \"Ciri's Skin",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191204,
+        "nsuId": 70050000018464,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Bajo contenido de sangre",
+            "Lenguaje moderado",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bd1c7220d8be36f51702d65a9bce523cf1c0fc21b2e363fb6390c79f5a793fa0.jpg",
+        "intro": "Objeto de colaboraci\u00f3n\nParte editable para el Outer \"Ciri's Skin\" (solo femenino)",
+        "description": "Esto es una personalizaci\u00f3n que te permitir\u00e1 cambiar la piel de tu Outer por la de Ciri.\n\n\u203bSe requiere la versi\u00f3n completa del juego DAEMON X MACHINA para utilizar este contenido.\n\u203bEste contenido no es equipo y es totalmente cosm\u00e9tico. No habr\u00e1 cambios en los estados al usar este contenido.\n\u203bEste contenido est\u00e1 disponible \u00fanicamente para Outers femeninos, no podr\u00e1 ser utilizado en Outers masculinos.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000018465": {
+        "id": "0100B6400CA57013",
+        "rightsId": null,
+        "name": "Parte editable para el Outer \"Geralt's Scar\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191204,
+        "nsuId": 70050000018465,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Bajo contenido de sangre",
+            "Lenguaje moderado",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f33c3019efb691e874688c34cbe1ce8ec21b8bd486315abfb7fa03d65fd5fc73.jpg",
+        "intro": "Objeto de colaboraci\u00f3n\nParte editable para el Outer \"Geralt's Scar\"",
+        "description": "Esto es una personalizaci\u00f3n que te permitir\u00e1 cambiar la cicatriz de tu Outer a la cicatriz de Geralt.\n\n\u203bSe requiere la versi\u00f3n completa del juego DAEMON X MACHINA para utilizar este contenido.\n\u203bEste contenido no es equipo y es totalmente cosm\u00e9tico. No habr\u00e1 cambios en los estados al usar este contenido.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000018466": {
+        "id": "0100B6400CA57010",
+        "rightsId": null,
+        "name": "Parte editable para el Outer \"Ciri's Shape\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191204,
+        "nsuId": 70050000018466,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Bajo contenido de sangre",
+            "Lenguaje moderado",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bd1c7220d8be36f51702d65a9bce523cf1c0fc21b2e363fb6390c79f5a793fa0.jpg",
+        "intro": "Objeto de colaboraci\u00f3n\nParte editable para el Outer \"Ciri's Shape\" (solo femenino)",
+        "description": "Esto es una personalizaci\u00f3n que te permitir\u00e1 cambiar la forma de la cara de tu Outer por la cara de Ciri.\n\n\u203bSe requiere la versi\u00f3n completa del juego DAEMON X MACHINA para utilizar este contenido.\n\u203bEste contenido no es equipo y es totalmente cosm\u00e9tico. No habr\u00e1 cambios en los estados al usar este contenido.\n\u203bEste contenido est\u00e1 disponible \u00fanicamente para Outers femeninos, no podr\u00e1 ser utilizado en Outers masculinos.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000018467": {
+        "id": "0100B6400CA5700E",
+        "rightsId": null,
+        "name": "Parte editable para el Outer \"Ciri's Hairstyle\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191204,
+        "nsuId": 70050000018467,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Bajo contenido de sangre",
+            "Lenguaje moderado",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bd1c7220d8be36f51702d65a9bce523cf1c0fc21b2e363fb6390c79f5a793fa0.jpg",
+        "intro": "Objeto de colaboraci\u00f3n\nParte editable para el Outer \"Ciri's Hairstyle\"",
+        "description": "Esto es una personalizaci\u00f3n que te permitir\u00e1 cambiar el peinado de tu Outer al estilo del peinado de Ciri.\n\n\u203bNecesitar\u00e1s la versi\u00f3n completa del juego DAEMON X MACHINA para utilizar este contenido.\n\u203bEste contenido no es equipo, es solo cosm\u00e9tico. Las estad\u00edsticas no cambiar\u00e1n al utilizar este contenido.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000018468": {
+        "id": "0100B6400CA5700F",
+        "rightsId": null,
+        "name": "Parte editable para el Outer \"Geralt's Shape\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191204,
+        "nsuId": 70050000018468,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Bajo contenido de sangre",
+            "Lenguaje moderado",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f33c3019efb691e874688c34cbe1ce8ec21b8bd486315abfb7fa03d65fd5fc73.jpg",
+        "intro": "Objeto de colaboraci\u00f3n\nParte editable para el Outer \"Geralt's Shape\" (solo masculino)",
+        "description": "Esto es una personalizaci\u00f3n que te permitir\u00e1 cambiar la forma de la cara de tu Outer por la cara de Geralt.\n\n\u203bSe requiere la versi\u00f3n completa del juego DAEMON X MACHINA para utilizar este contenido.\n\u203bEste contenido no es equipo y es totalmente cosm\u00e9tico. No habr\u00e1 cambios en los estados al usar este contenido.\n\u203bEste contenido est\u00e1 disponible \u00fanicamente para Outers masculinos, no podr\u00e1 ser utilizado en Outers femeninos.\n",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000018469": {
+        "id": "0100B6400CA57011",
+        "rightsId": null,
+        "name": "Parte editable para el Outer \"Geralt's Skin\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191204,
+        "nsuId": 70050000018469,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Bajo contenido de sangre",
+            "Lenguaje moderado",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f33c3019efb691e874688c34cbe1ce8ec21b8bd486315abfb7fa03d65fd5fc73.jpg",
+        "intro": "Objeto de colaboraci\u00f3n\nParte editable para el Outer \"Geralt's Skin\" (solo masculino)",
+        "description": "Esto es una personalizaci\u00f3n que te permitir\u00e1 cambiar la piel de tu Outer por la de Geralt.\n\n\u203bSe requiere la versi\u00f3n completa del juego DAEMON X MACHINA para utilizar este contenido.\n\u203bEste contenido no es equipo y es totalmente cosm\u00e9tico. No habr\u00e1 cambios en los estados al usar este contenido.\n\u203bEste contenido est\u00e1 disponible \u00fanicamente para Outers masculinos, no podr\u00e1 ser utilizado en Outers femeninos.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000018470": {
+        "id": "0100B6400CA5700C",
+        "rightsId": null,
+        "name": "Outer Suit \"Ciri's Outfit\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191204,
+        "nsuId": 70050000018470,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Bajo contenido de sangre",
+            "Lenguaje moderado",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d6eaf2a72bd3ed2874d8ca69dd15609206f8bbd4790e34b2956490c9fa6fceb8.jpg",
+        "intro": "Objeto de colaboraci\u00f3n\nOuter Suit \"Ciri's Outfit\" (solo femenino)",
+        "description": "Este es un art\u00edculo que te permite cambiar tu Outer Suit al traje Ciri.\n\n\u203bSe requiere la versi\u00f3n completa del juego DAEMON X MACHINA para utilizar este contenido.\n\u203bEste contenido no es equipo y es totalmente cosm\u00e9tico. No habr\u00e1 cambios en los estados al usar este contenido.\n\u203bEste contenido est\u00e1 disponible \u00fanicamente para Outers femeninos, no podr\u00e1 ser utilizado en Outers masculinos.",
+        "languages": null,
+        "size": 4194304
+    },
     "70070000000041": {
         "id": null,
         "rightsId": null,
@@ -12631,7 +13287,8 @@
             "Referencia a drogas",
             "Desnudez parcial",
             "Lenguaje fuerte",
-            "Violencia"
+            "Violencia",
+            "Compras dentro del juego"
         ],
         "numberOfPlayers": null,
         "rating": 17,
@@ -12732,9 +13389,9 @@
         "screenshots": null,
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ca3700c7bf13979d11be7e48e05f28a928a320026104f889bc5392b4c98cefc2.jpg",
         "intro": null,
-        "description": "Mortal\u00a0Kombat\u00a011, la m\u00e1s reciente entrega de la aclamada franquicia, te ofrece una experiencia m\u00e1s profunda y personalizada que nunca. Con las nuevas variantes de personaje tendr\u00e1s un control sin precedentes para personalizar a tus luchadores y hacerlos \u00fanicos.\n\nLa Edici\u00f3n Pr\u00e9mium de Mortal\u00a0Kombat\u00a011 incluye:\n\u2022 Juego principal\n\u2022 Paquete de Kombate\n\nEl Paquete de Kombate incluye:\n\u2022 6\u00a0nuevos personajes de contenido descargable, lanzados con el tiempo\n\u2022 7\u00a0skins de personaje exclusivas\n\u2022 7\u00a0conjuntos de equipo\n exclusivos",
+        "description": "Mortal\u00a0Kombat\u00a011, la m\u00e1s reciente entrega de la aclamada franquicia, te ofrece una experiencia m\u00e1s profunda y personalizada que nunca. Con las nuevas variantes de personaje tendr\u00e1s un control sin precedentes para personalizar a tus luchadores y hacerlos \u00fanicos.\n\nLa Edici\u00f3n Pr\u00e9mium de Mortal\u00a0Kombat\u00a011 incluye:\n\u2022 Juego principal\n\u2022 Paquete de Kombate\n\nEl Paquete de Kombate incluye:\n\u2022 6\u00a0nuevos personajes complementarios jugables, incluyendo a Shang Tsung, Nightwolf, Terminator T-800, Sindel, Guas\u00f3n y Spawn\n\u2022 Acceso anticipado de 1\u00a0semana a todos los personajes complementarios\n\u2022 Skins y\u00a0conjuntos de equipo con cada personaje complementario\n\u2022 6 paquetes de skins tem\u00e1ticas incluyendo Ninjas de Arcade Kl\u00e1sicos, Luchadores de Arcade Kl\u00e1sicos y m\u00e1s",
         "languages": null,
-        "size": 27157069824
+        "size": 26176651264
     },
     "70070000005704": {
         "id": null,
@@ -13070,7 +13727,8 @@
             "Sangre",
             "Temas insinuantes",
             "Violencia",
-            "Interacci\u00f3n de usuarios"
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
         ],
         "numberOfPlayers": null,
         "rating": 13,
@@ -13154,7 +13812,7 @@
         "intro": null,
         "description": null,
         "languages": null,
-        "size": 965738496
+        "size": 1127219200
     },
     "70070000007321": {
         "id": null,
@@ -13292,6 +13950,6 @@
         "intro": "El futuro es ahora. \u00bfEst\u00e1s con nosotros?",
         "description": "Overwatch: Legendary Edition incluye:\n\u2022\tC\u00f3digo para canjear para la suscripci\u00f3n de 3 meses de membres\u00eda individual de Nintendo Switch Online (Se aplican t\u00e9rminos. nintendo.com/switch-online)\n\u2022\tEl juego completo\n\u2022\t5 dise\u00f1os de h\u00e9roe legendarios\n\u2022\t5 dise\u00f1os de h\u00e9roe \u00e9picos\n\u2022\t5 dise\u00f1os de h\u00e9roe Origin\n\nDesbloquea una caja de bot\u00edn dorada\n\u00a1Compra Overwatch en Nintendo Switch e inicia sesi\u00f3n antes del 31 de diciembre de 2019 para desbloquear una caja de bot\u00edn dorada con al menos 1 objeto legendario garantizado!\n\nEmpieza tu guardia\n\u00danete a la lucha por el futuro en el mundo de Overwatch\u00ae y elige a tu h\u00e9roe de entre una diversa lista de soldados, cient\u00edficos, aventureros y superdotados. Manipula el tiempo, desaf\u00eda la f\u00edsica y desata una gran variedad de armas y poderes extraordinarios. Enfr\u00e9ntate a tus enemigos en ubicaciones emblem\u00e1ticas de todas partes del mundo en el juego de disparos por equipos definitivo.\n\nVive lo extraordinario\nAcelera y ralentiza el tiempo. Haz llover destrucci\u00f3n desde lo alto en una armadura experimental con propulsores. Acecha a tu presa como un asesino espectral que puede aparecer en cualquier lugar en cualquier momento. Desata poderes como Golpe drag\u00f3n, Trascendencia, Oleada de gravitones y muchos m\u00e1s. Cada h\u00e9roe tiene un conjunto de habilidades \u00fanicas y devastadoras capaces de alterar el curso de la partida.\n\nJuega con h\u00e9roes, no clases\nCada h\u00e9roe tiene una perspectiva \u00fanica en el campo de batalla y una historia detr\u00e1s de c\u00f3mo lleg\u00f3 hasta all\u00ed. Puedes ser un campe\u00f3n de una era antigua que blande su martillo propulsado en servicio del honor, un monje rob\u00f3tico que tiene como misi\u00f3n sanar las grietas entre la humanidad y las m\u00e1quinas, o un gorila dise\u00f1ado gen\u00e9ticamente que resulta ser tambi\u00e9n un brillante cient\u00edfico, entre muchos otros.\n\nLucha por el futuro... en equipo\nEl trabajo en equipo ser\u00e1 fundamental para la supervivencia cuando ingreses al campo de batalla con amigos y compa\u00f1eros. Una coordinaci\u00f3n minuciosa puede marcar la diferencia entre la victoria y la derrota al momento de combinar en equipo los formidables poderes que tienen a disposici\u00f3n para provocar un efecto devastador.\n\nCambia tu perspectiva\nJusto cuando parece que tu equipo est\u00e1 destinado a sufrir una derrota, cambia de h\u00e9roe en cualquier momento y modifica el curso de la batalla. Pero no olvides que tus oponentes pueden hacer lo mismo. Domina el juego dentro de la partida al tiempo que ambos equipos cambian de estrategia y de h\u00e9roe para obtener una ventaja sobre su rival.\n\nEl mundo es tu campo de batalla\nProtege los secretos del misterioso Templo de Anubis en Egipto, escolta un dispositivo PEM para que llegue a salvo a destino por King\u2019s Row en Londres y libra batallas en muchas m\u00e1s ubicaciones \u00fanicas. Todos los mapas tienen caracter\u00edsticas distintivas propias, con objetivos por equipos y estilos de juego singulares.",
         "languages": null,
-        "size": 12119441408
+        "size": 12626952192
     }
 }
