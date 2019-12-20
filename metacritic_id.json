@@ -51,7 +51,7 @@
         "name": "Jamestown+",
         "eshop_name": "Jamestown+",
         "metacritic_platform": "switch",
-        "metascore": "83",
+        "metascore": "81",
         "userscore": null,
         "release": "20191212",
         "description": "Jamestown: Legend Of The Lost Colony is a neo-classical top-down shooter for up to 4 players, set on 17th-century British Colonial Mars. It features all the intensity, depth, and lovingly handcrafted pixels of a classic arcade shooter, with a modern twist: deeply-integrated cooperative gameplay.\n\nUnlike most top-down shooters, which give multiple players a shared pool of lives or continues, Jamestown does something different. So long as any player survives, the team can be brought back from death. By giving every player the power to rescue their team from the jaws of destruction, Jamestown creates an exhilarating cooperative experience where everyones contribution truly matters. Win or lose, your team will do it together.\n\nKey features:\n\n- Blast your way through historic Mars as a crack team of up to 4 friends in local co-op mode\n- Marvel and rejoice at vast expanses of lovingly handcrafted pixels\n- Escape into a fast-paced story of swashbuckling redemption\n- Epic orchestral scores composed by Francisco Cerda, unique to each level\n- Brave the hostile Martian frontier with your pick of 1619s finest steampunk weaponry\n- Master innovative co-op mechanics paired with classical top-down shooter gameplay\n- Test your skills against 20+ rule-bending bonus levels\n- Run the Gauntlet arcade mode, and play Jamestown like its 1996\n- Leverage the unique scoring system to claw your way up the online leaderboards",
@@ -988,6 +988,28 @@
             "Fantasy Violence"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/yokus-island-express"
+    },
+    "010002D00EDD0000": {
+        "id": "010002D00EDD0000",
+        "nsuId": 70010000021685,
+        "name": "JDM Racing",
+        "eshop_name": "JDM Racing",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191219",
+        "description": "",
+        "AgeRating": 6,
+        "category": [
+            "Racing",
+            "Simulation",
+            "Sports",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "In-Game Purchases"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/jdm-racing"
     },
     "010002E00D3FE000": {
         "id": "010002E00D3FE000",
@@ -5128,6 +5150,26 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/garage"
     },
+    "01000FA010340000": {
+        "id": "01000FA010340000",
+        "nsuId": 70010000026281,
+        "name": "Melbits World",
+        "eshop_name": "Melbits World",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191219",
+        "description": "",
+        "AgeRating": 6,
+        "category": [
+            "Arcade",
+            "Multiplayer",
+            "Puzzle",
+            "Party"
+        ],
+        "ratingContent": [],
+        "metacritic_url": "https://www.metacritic.com/game/switch/melbits-world"
+    },
     "01000FB008900000": {
         "id": "01000FB008900000",
         "nsuId": 70010000004245,
@@ -5191,6 +5233,30 @@
             "Use of Alcohol and Tobacco"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/pig-eat-ball"
+    },
+    "010010100FF14000": {
+        "id": "010010100FF14000",
+        "nsuId": 70010000025268,
+        "name": "60 Parsecs!",
+        "eshop_name": "60 Parsecs!",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191220",
+        "description": "",
+        "AgeRating": 10,
+        "category": [
+            "Adventure",
+            "Simulation",
+            "Other"
+        ],
+        "ratingContent": [
+            "Alcohol and Tobacco Reference",
+            "Fantasy Violence",
+            "Mild Blood",
+            "Mild Language"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/60-parsecs!"
     },
     "010010200D09A000": {
         "id": "010010200D09A000",
@@ -5264,7 +5330,7 @@
         "eshop_name": "Sayonara Wild Hearts",
         "metacritic_platform": "switch",
         "metascore": "83",
-        "userscore": "82",
+        "userscore": "83",
         "release": "20190919",
         "description": "Sayonara Wild Hearts is a dreamy arcade game about riding motorcycles, skateboarding, dance battling, shooting lasers, wielding swords, and breaking hearts at 200 mph. As the heart of a young woman breaks, the balance of the universe is disturbed. A diamond butterfly appears in her dreams and leads her through a highway in the sky, where she finds her other self: the masked biker called The Fool. Journey through a custom-written pop soundtrack, chase scores, and set out to find the harmony of the universe, hidden away in the hearts of Little Death and her star-crossed allies: Dancing Devils, Howling Moons, Stereo Lovers and Hermit 64.",
         "AgeRating": 10,
@@ -7573,6 +7639,26 @@
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/arcade-archives-bomb-jack"
     },
+    "0100194010422000": {
+        "id": "0100194010422000",
+        "nsuId": 70010000026395,
+        "name": "bayala - the game",
+        "eshop_name": "bayala - the game",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191219",
+        "description": "",
+        "AgeRating": 6,
+        "category": [
+            "Action",
+            "Platformer",
+            "Puzzle",
+            "Adventure"
+        ],
+        "ratingContent": [],
+        "metacritic_url": "https://www.metacritic.com/game/switch/bayala---the-game"
+    },
     "010019500B69A000": {
         "id": "010019500B69A000",
         "nsuId": 70010000014615,
@@ -9344,7 +9430,7 @@
         "eshop_name": "Romancing SaGa 2",
         "metacritic_platform": "switch",
         "metascore": "73",
-        "userscore": "82",
+        "userscore": "79",
         "release": "20191111",
         "description": "The classic 1995 RPG comes west in a remastered version. Your choices matter\u2014from your choice of hero, to branching story paths, to recruiting party members, to which skills you\u2019ll develop. Every game, a new adventure.",
         "AgeRating": 13,
@@ -10306,7 +10392,7 @@
         "eshop_name": "FAR: Lone Sails",
         "metacritic_platform": "switch",
         "metascore": "88",
-        "userscore": "77",
+        "userscore": "79",
         "release": "20190818",
         "description": "FAR: Lone Sails is a vehicle adventure game. It\u2019s just you and your machine vs. the big nothing. Traverse a dried-out seabed littered with the remains of a decaying civilization. Keep your unique vessel going, overcome numerous obstacles and withstand the hazardous weather conditions. How far can you make it? What will you find?",
         "AgeRating": 6,
@@ -11286,6 +11372,27 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/soap-dodgem"
     },
+    "010025C00D410000": {
+        "id": "010025C00D410000",
+        "nsuId": 70010000016862,
+        "name": "Mega Man X Legacy Collection 1 + 2",
+        "eshop_name": "Mega Man Zero/ZX Legacy Collection",
+        "metacritic_platform": "switch",
+        "metascore": "80",
+        "userscore": "84",
+        "release": "20180724",
+        "description": "The celebrated Mega Man X series comes to PlayStation 4, Xbox One, Nintendo Switch, and PC! Play as Mega Man X the powerful evolution of classic fighting robot Mega Man as he battles a variety of deadly bosses known as Mavericks in eight exhilarating action-platformer games. Mega Man X Legacy Collection includes the legendary 16-bit titles and the series' exciting foray into 32-bits: Mega Man X, Mega Man X2, Mega Man X3, and Mega Man X4. The heroic robot grows stronger as he takes down Mavericks and steals their weapons, and also has the ability to dash and wall jump for thrilling, fast-paced combat. Mega Man X's mysterious friend, Zero, also joins the fray as a playable character later in this collection.\n\nMega Man X Legacy Collection 2 also spans two gaming eras, showcasing the evolution of the series with Mega Man X5, Mega Man X6, Mega Man X7, and Mega Man X8. A third playable character, Axl, joins the cast in Mega Man X7 and Mega Man X8 as the series jumps into a new realm of 3D character models and environments.\n\nIn addition to eight iconic Mega Man X titles, both Mega Man X Legacy Collection and Mega Man Legacy Collection 2 come with an armory of new features. Test your Maverick-hunting skills in the new X Challenge mode, which pits players against two deadly bosses in a series of two-on-one battles. Think you can take down the slippery Chill Penguin and hulking Frost Walrus simultaneously? Give it your best shot! Additionally, Mega Man X Legacy Collection includes a huge museum filled with rare production art, catalogs of classic merchandise, a playlist of nostalgic commercials, and more. The collection also includes an animated a prequel film starring the origins of Mega Man X villain, Sigma.",
+        "AgeRating": 13,
+        "category": [
+            "Action",
+            "RPG"
+        ],
+        "ratingContent": [
+            "Fantasy Violence",
+            "Mild Blood"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/mega-man-x-legacy-collection-1-+-2"
+    },
     "010025C00D8A2000": {
         "id": "010025C00D8A2000",
         "nsuId": 70010000017942,
@@ -11393,7 +11500,7 @@
     },
     "010026200FF36000": {
         "id": "010026200FF36000",
-        "nsuId": 70010000025448,
+        "nsuId": 70010000025449,
         "name": "Jets 'n' Guns",
         "eshop_name": "Jets'n'Guns",
         "metacritic_platform": "switch",
@@ -11401,15 +11508,18 @@
         "userscore": null,
         "release": "20191216",
         "description": "",
-        "AgeRating": 15,
+        "AgeRating": 13,
         "category": [
             "Arcade",
             "Action",
             "Shooter"
         ],
         "ratingContent": [
-            "Strong Crude Humour",
-            "Strong Violence"
+            "Blood",
+            "Mild Language",
+            "Suggestive Themes",
+            "Use of Tobacco",
+            "Violence"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/jets-n-guns"
     },
@@ -11833,7 +11943,7 @@
         "eshop_name": "Ashen",
         "metacritic_platform": "switch",
         "metascore": null,
-        "userscore": "77",
+        "userscore": "79",
         "release": "2019129",
         "description": "Ashen is an open world co-op action RPG about a wanderer in search of a place to call home. As you adventure through Ashen, you\u2019ll occasionally encounter other players in a massive open world. It\u2019s up to you to decide how to deal with them \u2014 fight together against evil, invite them into your party or simply ignore them.",
         "AgeRating": 13,
@@ -12446,7 +12556,7 @@
         "eshop_name": "Katana ZERO",
         "metacritic_platform": "switch",
         "metascore": "83",
-        "userscore": "87",
+        "userscore": "88",
         "release": "20190417",
         "description": "Katana ZERO is a stylish neo-noir, action-platformer featuring breakneck action and instant-death combat. Slash, dash, and manipulate time to unravel your past in a beautifully brutal acrobatic display.",
         "AgeRating": 17,
@@ -15470,7 +15580,7 @@
         "name": "Super Hyperactive Ninja",
         "eshop_name": "Super Hyperactive Ninja",
         "metacritic_platform": "switch",
-        "metascore": null,
+        "metascore": "50",
         "userscore": null,
         "release": "20181025",
         "description": "Super Hyperactive Ninja is a fast-paced hyper-caffeinated action-platformer in 2D, designed with those who want a real tough challenge and speedrunners in mind.",
@@ -16521,7 +16631,7 @@
         "eshop_name": "\ube45\ud130 \ube0c\ub780 \uc624\ubc84\ud0ac \uc5d0\ub514\uc158 (Victor Vran Overkill Edition)",
         "metacritic_platform": "switch",
         "metascore": "82",
-        "userscore": "79",
+        "userscore": "81",
         "release": "20180828",
         "description": "Overkill Edition includes the fully updated and award winning Action RPG Victor Vran, the expansive Fractured Worlds & the legendary Motorhead: Through The Ages. Look your very best and reinforce your play style with a monumental arsenal of powerful weapons, game-changing outfits, wicked demon powers and fate-binding destiny cards. Redefine how you play at any moment, even in the heat of battle. Modify your demon slaying loadout as you dodge deadly attacks, leap from towering locations and take on hordes of hideous beasts and cunning boss monsters. Fedora or no fedora, you decide! Slaying demons doesn't have to be a lonely affair -- form a pack and find even greater strength in numbers, to explore the story of the dark world together.",
         "AgeRating": 15,
@@ -16776,7 +16886,7 @@
         "name": "YU-NO: A Girl Who Chants Love at the Bound of this World",
         "eshop_name": "YU-NO: A girl who chants love at the bound of this world.",
         "metacritic_platform": "switch",
-        "metascore": null,
+        "metascore": "69",
         "userscore": null,
         "release": "2019101",
         "description": "Your love awaits beyond the bounds of this world! Play as Takuya, an academy student who discovers the secret to time travel thanks to a mysterious gift from his deceased father. Use the Reflector Device to travel through multiple timelines and gather clues to unlock the truth resting beneath Sword Cape.",
@@ -20712,7 +20822,7 @@
         "name": "Assassin's Creed: The Rebel Collection",
         "eshop_name": "Assassin\u2019s Creed\u00ae: The Rebel Collection",
         "metacritic_platform": "switch",
-        "metascore": "83",
+        "metascore": "80",
         "userscore": "83",
         "release": "2019126",
         "description": "Become the most feared pirate in the Caribbean in Assassin\u2019s Creed IV Black Flag. Take part in an award-winning naval experience and explore a massive open world. Become the ultimate assassin hunter in Assassin\u2019s Creed\u00ae Rogue, and play as a Templar for the first time in franchise history. Experience enhanced features like Handheld Mode, HD Rumble, Touch Screen Interface, and Motion Control Aiming.",
@@ -20737,7 +20847,7 @@
         "name": "Assassin's Creed: The Rebel Collection",
         "eshop_name": "Assassin's Creed\u00ae: The Rebel Collection \u2013 Extra Content",
         "metacritic_platform": "switch",
-        "metascore": "83",
+        "metascore": "80",
         "userscore": "83",
         "release": "2019126",
         "description": "Become the most feared pirate in the Caribbean in Assassin\u2019s Creed IV Black Flag. Take part in an award-winning naval experience and explore a massive open world. Become the ultimate assassin hunter in Assassin\u2019s Creed\u00ae Rogue, and play as a Templar for the first time in franchise history. Experience enhanced features like Handheld Mode, HD Rumble, Touch Screen Interface, and Motion Control Aiming.",
@@ -21485,9 +21595,7 @@
             "Action",
             "Arcade"
         ],
-        "ratingContent": [
-            "Mild Fantasy Violence"
-        ],
+        "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/arcade-archives-frogger"
     },
     "010047300EBA6000": {
@@ -21652,7 +21760,7 @@
         "userscore": null,
         "release": "2019126",
         "description": "Discover new planets, chart incredible worlds and reveal ancient secrets. Explore strange new worlds with your trusty robot sidekick. Make your way across fantastical planets from the icy tundra to the lush jungles brimming with flora and fauna. The endless universe has countless hostile galaxies to conquer. Combined with the dynamic objectives system, the gameplay is truly infinite in Space Pioneer. Recover stolen disks, defend probes, repair crashed craft and complete missions to earn loot and unlock awesome gear and skills. Every time you play missions have new objectives, enemies and additional challenges.",
-        "AgeRating": 10,
+        "AgeRating": 13,
         "category": [
             "Action",
             "Shooter",
@@ -21660,8 +21768,8 @@
             "Multiplayer"
         ],
         "ratingContent": [
-            "Fantasy Violence",
-            "Mild Blood"
+            "Blood",
+            "Violence"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/space-pioneer"
     },
@@ -23235,14 +23343,14 @@
         "userscore": null,
         "release": "20191213",
         "description": "Dead End Job sends you into a madcap, whacky world to bust up ghosts. It\u2019s a procedurally generated, couch co-op, twin-stick shooter that straps a vacuum pack to your back, and puts a plasma blaster in your hand. For you, it\u2019s just another day in the office. You take on the role of Hector Plasm, a worker at Ghoul-B-Gone \u2013 \u2018the Number One experts in paranormal pest control\u2019 \u2013 as you\u2019re tasked with heading to haunted offices, restaurants, and other everyday buildings before freeing them of unwanted guests.",
-        "AgeRating": 13,
+        "AgeRating": 10,
         "category": [
             "Action",
             "Shooter",
             "Arcade"
         ],
         "ratingContent": [
-            "Violence"
+            "Fantasy Violence"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/dead-end-job"
     },
@@ -29596,7 +29704,7 @@
         "eshop_name": "The Book of Unwritten Tales 2",
         "metacritic_platform": "switch",
         "metascore": "77",
-        "userscore": "83",
+        "userscore": "78",
         "release": "2019025",
         "description": "A new adventure from KING Art, the creators of The Book of Unwritten Tales, The Critter Chronicles and The Raven - Legacy of a Master Thief.\r\n\r\n- A fantasy story with over 20 hours of pointing and clicking\r\n- The trademark BoUT-humor, lovingly spoofing LotR, Game of Thrones, Harry Potter, Discworld, The Hobbit, WoW and more\r\n- Hundreds of weird, yet oddly logical puzzles\r\n- The well-proven 'Multi-Character-Gameplay'\r\n- An ensemble of quirky characters, both well-established and brand-new\r\n- Projection Mapping technology unites the merits of 2D and 3D styles and technique\r\n- An epic soundtrack with all the classics and many new compositions\r\n- The established four playable characters Wilbur, Nate, Ivo and Critter",
         "AgeRating": 13,
@@ -33269,7 +33377,7 @@
         "name": "Yaga",
         "eshop_name": "Yaga",
         "metacritic_platform": "switch",
-        "metascore": "64",
+        "metascore": "67",
         "userscore": null,
         "release": "20191112",
         "description": "Smash, clobber and bash the murderous legends of Slavic mythology in this darkly funny action role-playing game that changes every time you play. Play as Ivan, a one-handed blacksmith with incredibly bad luck, who must take on the impossible tasks given to him by the tzar.",
@@ -35452,7 +35560,7 @@
         "name": "Alien: Isolation",
         "eshop_name": "Alien: Isolation",
         "metacritic_platform": "switch",
-        "metascore": "82",
+        "metascore": "83",
         "userscore": "82",
         "release": "2019125",
         "description": "HOW WILL YOU SURVIVE? \r\n\r\nDiscover the true meaning of fear in Alien: Isolation, a survival horror set in an atmosphere of constant dread and mortal danger. Fifteen years after the events of Alien, Ellen Ripleys daughter, Amanda enters a desperate battle for survival, on a mission to unravel the truth behind her mother's disappearance. \r\n\r\nAs Amanda, you will navigate through an increasingly volatile world as you find yourself confronted on all sides by a panicked, desperate population and an unpredictable, ruthless Alien. \r\n\r\nUnderpowered and underprepared, you must scavenge resources, improvise solutions and use your wits, not just to succeed in your mission, but to simply stay alive. \r\n\r\nOvercome an ever-present deadly threat  Experience persistent fear as a truly dynamic and reactive Alien uses its senses to hunt you down and respond to your every move. \r\n\r\nImprovise to survive  Hack systems, scavenge for vital resources and craft items to deal with each situation. Will you evade your enemies, distract them or face them head on? \r\n\r\nExplore a world of mystery and betrayal  Immerse yourself in the detailed setting of Sevastopol, a decommissioned trading station on the fringes of space. Encounter a rich cast of inhabitants in a world scarred by fear and mistrust. \r\n\r\nWhen she left Earth, Ellen Ripley promised her daughter Amanda she would return home for her 11th birthday. Amanda never saw her again. \r\n\r\nFifteen years later, Amanda, now a Weyland-Yutani employee, hears that the flight recorder of her mothers ship, the Nostromo, has been recovered at the remote trading station Sevastopol. The temptation for her to finally understand what happened is too much to resist. When the crew arrive at Sevastopol, they find something is desperately wrong. It all seems to be connected to an unknown menace, stalking and killing deep in the shadows. \r\n\r\nIn order to uncover the truth about her mother, Amanda is forced to confront the same terrifying thing that separated them.",
@@ -36167,14 +36275,12 @@
         "userscore": null,
         "release": "2019125",
         "description": "What if you had it in your power to rid the world of disease, to improve the lives of millions, to ease suffering and cure the sick and earn a tidy profit? As the head of your own Pharmaceutical Conglomerate you have this power resting in your hands. Will you use it for good? Being totally altruistic may not be the best business plan. The uncomfortable truth (is there an ointment for that?) is that some remedies are more profitable than others and illness is good for business. Welcome to the world of Big Pharma.",
-        "AgeRating": 17,
+        "AgeRating": 6,
         "category": [
             "Simulation",
             "Strategy"
         ],
-        "ratingContent": [
-            "Use of Drugs"
-        ],
+        "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/big-pharma"
     },
     "010078000CB8E000": {
@@ -36673,6 +36779,28 @@
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/escape-game-aloha"
     },
+    "010079100CD8A000": {
+        "id": "010079100CD8A000",
+        "nsuId": 70010000018952,
+        "name": "Super Trench Attack",
+        "eshop_name": "SUPER TRENCH ATTACK",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191219",
+        "description": "",
+        "AgeRating": 7,
+        "category": [
+            "Arcade",
+            "Adventure",
+            "Shooter",
+            "Action"
+        ],
+        "ratingContent": [
+            "Mild Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/super-trench-attack"
+    },
     "010079100D950000": {
         "id": "010079100D950000",
         "nsuId": 70010000018090,
@@ -36848,6 +36976,28 @@
             "Suggestive Themes"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/bayonetta-2"
+    },
+    "010079600BF22000": {
+        "id": "010079600BF22000",
+        "nsuId": 70010000027217,
+        "name": "KUUKIYOMI: Consider It!",
+        "eshop_name": "KUUKIYOMI: Consider It!",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191219",
+        "description": "",
+        "AgeRating": 6,
+        "category": [
+            "Communication",
+            "Party",
+            "Practical",
+            "Other"
+        ],
+        "ratingContent": [
+            "Alcohol Reference"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/kuukiyomi-consider-it!"
     },
     "010079700B4EA000": {
         "id": "010079700B4EA000",
@@ -38645,6 +38795,29 @@
         ],
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/semblance"
+    },
+    "010080F00F490000": {
+        "id": "010080F00F490000",
+        "nsuId": 70010000024793,
+        "name": "Mirror",
+        "eshop_name": "Mirror",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191219",
+        "description": "This is a game that combines match-3, GALGAME elements and beauties. If you want to learn more about those beauties, you need to best them first. How the story goes is choice-based so your choices will ultimately decide their fate.",
+        "AgeRating": 13,
+        "category": [
+            "Puzzle",
+            "RPG",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Language",
+            "Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/mirror"
     },
     "01008110036FE000": {
         "id": "01008110036FE000",
@@ -41363,7 +41536,7 @@
         "name": "Shovel Knight: King of Cards",
         "eshop_name": "Shovel Knight: King of Cards",
         "metacritic_platform": "switch",
-        "metascore": "80",
+        "metascore": "82",
         "userscore": "81",
         "release": "20191210",
         "description": "Play as King Knight, the gilded goon himself, as he travels through 4 new worlds and more than 30 all new courses, on a journey to best the Three Kings who rule over the land. With a high flying spin and a boisterous bash, he can crash through all who would dare stand in his way.",
@@ -41670,7 +41843,7 @@
         "name": "Gunvolt Chronicles: Luminous Avenger iX",
         "eshop_name": "Gunvolt Chronicles: Luminous Avenger iX",
         "metacritic_platform": "switch",
-        "metascore": "83",
+        "metascore": "81",
         "userscore": "81",
         "release": "20190926",
         "description": "The hero, Copen, can dash into enemies to lock-on onto them so his shots never miss their mark. Put your ingenuity to the test, and you can use his \"Bullit Dash\" to fly through stages without touching the ground! You have many tools at your disposal, so make find a style that works for you and conquer each stage with style.",
@@ -45021,8 +45194,8 @@
         "name": "Star Ocean: First Departure R",
         "eshop_name": "STAR OCEAN -First Departure R-",
         "metacritic_platform": "switch",
-        "metascore": null,
-        "userscore": "78",
+        "metascore": "74",
+        "userscore": null,
         "release": "2019125",
         "description": "Space Date: 346. From a power yet undiscovered, a new generation will be born. Our tale begins on the primitive planet of Roak where Roddick lives in the peaceful and uneventful town of Kratus. As a member of the village\u2019s local \u201cDefence Force\u201d tasked with the protection of Kratus, Roddick learns of a mysterious disease that has broken out in the neighboring town. Those infected turn to stone, but continue to live on in a petrified state. Roddick, along with his two friends Millie and Dorne, make their way to the neighboring town. Informed of a cure for the sickness, they head to Mt. Metorx where a healing herb is rumored to grow. When they reach the summit, the party encounter Ronyx and Ilia, who appear before them in a pillar of light. Thus, the story of STAR OCEAN begins...",
         "AgeRating": 12,
@@ -46447,7 +46620,7 @@
         "eshop_name": "LIMBO",
         "metacritic_platform": "switch",
         "metascore": "83",
-        "userscore": "83",
+        "userscore": "84",
         "release": "20180628",
         "description": "LIMBO, a black and white puzzle-platforming adventure, puts players in the role of a young boy traveling through an eerie and treacherous world in an attempt to discover the fate of his sister.",
         "AgeRating": 13,
@@ -48352,8 +48525,8 @@
         "name": "EarthNight",
         "eshop_name": "EarthNight",
         "metacritic_platform": "switch",
-        "metascore": "77",
-        "userscore": "82",
+        "metascore": "75",
+        "userscore": "76",
         "release": "2019123",
         "description": "EarthNight is a hand-painted roguelike runner about the dragon apocalypse. Dragons have taken over the Earth and exiled the decimated human population to outer space. Our outraged heroes Stanley and Sydney decide to skydive to the planet\u2019s surface, taking out as many dragons as they can on their way. In terms of gameplay, Stanley is a good pick for beginners given his simpler control scheme. Sydney is for experts, with a less intuitive \u2014 but ultimately more rewarding \u2014 control scheme.",
         "AgeRating": 10,
@@ -53004,8 +53177,8 @@
         "name": "Shovel Knight Showdown",
         "eshop_name": "Shovel Knight Showdown",
         "metacritic_platform": "switch",
-        "metascore": "77",
-        "userscore": "78",
+        "metascore": "75",
+        "userscore": null,
         "release": "20191210",
         "description": "Shovel Knight Showdown is the ultimate platform fighting experience, where you can duel with up to 4 players and scramble after gems as your favorite heroic or villainous knight from the Shovel Knight: Treasure Trove saga. Gather your pals for endless multiplayer clashes, or choose from more than 16 playable characters in Story Mode, each with their own unique story to tell. Master every move, explore a vast array of items and locales, and discover new revelations in Shovel Knight Showdown. When a magical catastrophe creates a world of never-ending battle, the heroes and villains of the Shovel Knight saga must discover the source of the disaster and fight to set things right! Play as your favorite character (alone or with a friend in co-op battles), face off against powerful rivals, and perfect your platform fighting skills in full-featured practice and target modes on your way to an all-new final encounter. Unlock new content and revisit Shovel Knight Showdown again and again as you dig into an immense variety of single-player and local multiplayer modes, features, and customizations.",
         "AgeRating": 6,
@@ -53227,7 +53400,7 @@
         "eshop_name": "Call of Juarez: Gunslinger",
         "metacritic_platform": "switch",
         "metascore": "67",
-        "userscore": "83",
+        "userscore": "79",
         "release": "20191210",
         "description": "From the dust of a gold mine to the dirt of a saloon, Call of Juarez Gunslinger is a real homage to the Wild West tales. Live the epic and violent journey of a ruthless bounty hunter onto the trail of the West's most notorious outlaws. Blurring the lines between man and myth, this adventure made of memorable encounters unveils the untold truth behind some of the greatest legends of the Old West.",
         "AgeRating": 17,
@@ -53900,7 +54073,7 @@
         "eshop_name": "Lost in Harmony",
         "metacritic_platform": "switch",
         "metascore": "63",
-        "userscore": null,
+        "userscore": "80",
         "release": "20180621",
         "description": "",
         "AgeRating": 10,
@@ -54925,7 +55098,7 @@
         "eshop_name": "Victor Vran Overkill Edition",
         "metacritic_platform": "switch",
         "metascore": "82",
-        "userscore": "79",
+        "userscore": "81",
         "release": "20180828",
         "description": "Overkill Edition includes the fully updated and award winning Action RPG Victor Vran, the expansive Fractured Worlds & the legendary Motorhead: Through The Ages. Look your very best and reinforce your play style with a monumental arsenal of powerful weapons, game-changing outfits, wicked demon powers and fate-binding destiny cards. Redefine how you play at any moment, even in the heat of battle. Modify your demon slaying loadout as you dodge deadly attacks, leap from towering locations and take on hordes of hideous beasts and cunning boss monsters. Fedora or no fedora, you decide! Slaying demons doesn't have to be a lonely affair -- form a pack and find even greater strength in numbers, to explore the story of the dark world together.",
         "AgeRating": null,
@@ -55183,7 +55356,7 @@
         "eshop_name": "Owlboy",
         "metacritic_platform": "switch",
         "metascore": "87",
-        "userscore": null,
+        "userscore": "75",
         "release": "20180213",
         "description": "Owlboy is a vertical platform adventure set in the sky, where the islands of the world have been spread apart after a great calamity. You play as Otus, among the last of the Owls, a renowned race that has produced many of the world's great wonders",
         "AgeRating": 10,
@@ -57059,7 +57232,7 @@
         "eshop_name": "The Touryst",
         "metacritic_platform": "switch",
         "metascore": "82",
-        "userscore": "85",
+        "userscore": "86",
         "release": "20191121",
         "description": "You are just arriving at the Monument Islands. Want to go swimming? Or rather take a dive into the deep sea? Or do you want to visit the amusement arcade, do some shopping, dance at the beach party? Fancy some surfing? Or will you talk with the strange old tourist and listen what he has to say about these ancient mysterious monuments..",
         "AgeRating": 6,
@@ -58576,6 +58749,29 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/spice-and-wolf-vr"
     },
+    "0100C9E00FD62000": {
+        "id": "0100C9E00FD62000",
+        "nsuId": 70010000024863,
+        "name": "Farabel",
+        "eshop_name": "Farabel",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191220",
+        "description": "In this turn-based strategy game, you begin at the end of the story and have to go back in time to prevent war. And obviously, the whole gaming experience is turned upside down.",
+        "AgeRating": 10,
+        "category": [
+            "Strategy",
+            "RPG",
+            "Board Game",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Fantasy Violence",
+            "Mild Blood"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/farabel"
+    },
     "0100C9F009F7A000": {
         "id": "0100C9F009F7A000",
         "nsuId": 70010000014081,
@@ -58756,7 +58952,7 @@
         "eshop_name": "Color Zen",
         "metacritic_platform": "switch",
         "metascore": null,
-        "userscore": null,
+        "userscore": "75",
         "release": "2018126",
         "description": "Color Zen is a new kind of puzzle game for phones and tablets. One that invites you to put on your headphones, relax, and find your way through an abstract world of colors and shapes. There is no score. No penalties for failure. Just a simple set of rules, intuitive controls, and satisfying puzzles. Get into the flow with Color Zen.",
         "AgeRating": 6,
@@ -62015,7 +62211,7 @@
         "userscore": null,
         "release": "20181115",
         "description": "",
-        "AgeRating": null,
+        "AgeRating": 15,
         "category": null,
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/snk-heroines-tag-team-frenzy---missx"
@@ -62030,7 +62226,7 @@
         "userscore": null,
         "release": "2018097",
         "description": "Play online or with friends as SNK's iconic heroines in the brand-new 2 vs 2 fighting game, SNK HEROINES Tag Team Frenzy. Activate Special Moves with a single button, and make use of special items to change the tide of battle! However, the fight isn't over the moment you've chipped enough health away. Once your opponent is on the ropes, utilize your Dream Finish technique to win the match. Spectate on other battles online, and wage on who you think will win using in-game points. Use your winnings to buy voice clips and accessories in an all-new costume system, and customize your favorite heroine to your heart's content.",
-        "AgeRating": null,
+        "AgeRating": 15,
         "category": null,
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/snk-heroines-tag-team-frenzy"
@@ -66522,7 +66718,7 @@
         "eshop_name": "Owlboy",
         "metacritic_platform": "switch",
         "metascore": "87",
-        "userscore": null,
+        "userscore": "75",
         "release": "20180213",
         "description": "Owlboy is a vertical platform adventure set in the sky, where the islands of the world have been spread apart after a great calamity. You play as Otus, among the last of the Owls, a renowned race that has produced many of the world's great wonders",
         "AgeRating": null,
@@ -67027,6 +67223,26 @@
             "\u66b4\u529b"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/castle-of-heart"
+    },
+    "0100E6900F2A8000": {
+        "id": "0100E6900F2A8000",
+        "nsuId": 70010000022545,
+        "name": "Dual Brain Vol.1: Calculation",
+        "eshop_name": "Dual Brain Vol.1: Calculation",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191219",
+        "description": "Make full use of \"DUAL TASK\" to compete with players around the world for scores!",
+        "AgeRating": 6,
+        "category": [
+            "Arcade",
+            "Study",
+            "Training",
+            "Other"
+        ],
+        "ratingContent": [],
+        "metacritic_url": "https://www.metacritic.com/game/switch/dual-brain-vol1-calculation"
     },
     "0100E6A009A26000": {
         "id": "0100E6A009A26000",
@@ -67546,7 +67762,7 @@
         "eshop_name": "Victor Vran Overkill Edition",
         "metacritic_platform": "switch",
         "metascore": "82",
-        "userscore": "79",
+        "userscore": "81",
         "release": "20180828",
         "description": "Overkill Edition includes the fully updated and award winning Action RPG Victor Vran, the expansive Fractured Worlds & the legendary Motorhead: Through The Ages. Look your very best and reinforce your play style with a monumental arsenal of powerful weapons, game-changing outfits, wicked demon powers and fate-binding destiny cards. Redefine how you play at any moment, even in the heat of battle. Modify your demon slaying loadout as you dodge deadly attacks, leap from towering locations and take on hordes of hideous beasts and cunning boss monsters. Fedora or no fedora, you decide! Slaying demons doesn't have to be a lonely affair -- form a pack and find even greater strength in numbers, to explore the story of the dark world together.",
         "AgeRating": 17,
@@ -68701,8 +68917,8 @@
         "name": "Star Ocean: First Departure R",
         "eshop_name": "STAR OCEAN First Departure R",
         "metacritic_platform": "switch",
-        "metascore": null,
-        "userscore": "78",
+        "metascore": "74",
+        "userscore": null,
         "release": "2019125",
         "description": "Space Date: 346. From a power yet undiscovered, a new generation will be born. Our tale begins on the primitive planet of Roak where Roddick lives in the peaceful and uneventful town of Kratus. As a member of the village\u2019s local \u201cDefence Force\u201d tasked with the protection of Kratus, Roddick learns of a mysterious disease that has broken out in the neighboring town. Those infected turn to stone, but continue to live on in a petrified state. Roddick, along with his two friends Millie and Dorne, make their way to the neighboring town. Informed of a cure for the sickness, they head to Mt. Metorx where a healing herb is rumored to grow. When they reach the summit, the party encounter Ronyx and Ilia, who appear before them in a pillar of light. Thus, the story of STAR OCEAN begins...",
         "AgeRating": 13,
