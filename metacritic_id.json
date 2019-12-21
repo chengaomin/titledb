@@ -55,7 +55,7 @@
         "userscore": null,
         "release": "20191212",
         "description": "Jamestown: Legend Of The Lost Colony is a neo-classical top-down shooter for up to 4 players, set on 17th-century British Colonial Mars. It features all the intensity, depth, and lovingly handcrafted pixels of a classic arcade shooter, with a modern twist: deeply-integrated cooperative gameplay.\n\nUnlike most top-down shooters, which give multiple players a shared pool of lives or continues, Jamestown does something different. So long as any player survives, the team can be brought back from death. By giving every player the power to rescue their team from the jaws of destruction, Jamestown creates an exhilarating cooperative experience where everyones contribution truly matters. Win or lose, your team will do it together.\n\nKey features:\n\n- Blast your way through historic Mars as a crack team of up to 4 friends in local co-op mode\n- Marvel and rejoice at vast expanses of lovingly handcrafted pixels\n- Escape into a fast-paced story of swashbuckling redemption\n- Epic orchestral scores composed by Francisco Cerda, unique to each level\n- Brave the hostile Martian frontier with your pick of 1619s finest steampunk weaponry\n- Master innovative co-op mechanics paired with classical top-down shooter gameplay\n- Test your skills against 20+ rule-bending bonus levels\n- Run the Gauntlet arcade mode, and play Jamestown like its 1996\n- Leverage the unique scoring system to claw your way up the online leaderboards",
-        "AgeRating": 6,
+        "AgeRating": 10,
         "category": [
             "Action",
             "Shooter",
@@ -63,7 +63,9 @@
             "Arcade"
         ],
         "ratingContent": [
-            "Mild Fantasy Violence"
+            "Fantasy Violence",
+            "Mild Blood",
+            "Mild Language"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/jamestown+"
     },
@@ -18978,7 +18980,7 @@
         "name": "Tokyo Dark: Remembrance",
         "eshop_name": "Tokyo Dark \u2013 Remembrance \u2013",
         "metacritic_platform": "switch",
-        "metascore": "72",
+        "metascore": "73",
         "userscore": null,
         "release": "2019117",
         "description": "Detective Ito`s partner is missing, but what starts as a straightforward case soon spirals into a twisted nightmare that causes Ito to confront her past and question her own sanity.\r\n\r\nTokyo Dark places the narrative in your hands. Your decisions and actions change Detective Ito's state of mind, opening doors to different possibilities as you attempt to find your partner and understand the dark and horrifying world around you.",
@@ -20823,7 +20825,7 @@
         "eshop_name": "Assassin\u2019s Creed\u00ae: The Rebel Collection",
         "metacritic_platform": "switch",
         "metascore": "80",
-        "userscore": "83",
+        "userscore": "82",
         "release": "2019126",
         "description": "Become the most feared pirate in the Caribbean in Assassin\u2019s Creed IV Black Flag. Take part in an award-winning naval experience and explore a massive open world. Become the ultimate assassin hunter in Assassin\u2019s Creed\u00ae Rogue, and play as a Templar for the first time in franchise history. Experience enhanced features like Handheld Mode, HD Rumble, Touch Screen Interface, and Motion Control Aiming.",
         "AgeRating": 17,
@@ -20848,7 +20850,7 @@
         "eshop_name": "Assassin's Creed\u00ae: The Rebel Collection \u2013 Extra Content",
         "metacritic_platform": "switch",
         "metascore": "80",
-        "userscore": "83",
+        "userscore": "82",
         "release": "2019126",
         "description": "Become the most feared pirate in the Caribbean in Assassin\u2019s Creed IV Black Flag. Take part in an award-winning naval experience and explore a massive open world. Become the ultimate assassin hunter in Assassin\u2019s Creed\u00ae Rogue, and play as a Templar for the first time in franchise history. Experience enhanced features like Handheld Mode, HD Rumble, Touch Screen Interface, and Motion Control Aiming.",
         "AgeRating": 17,
@@ -24664,7 +24666,7 @@
         "eshop_name": "Resident Evil",
         "metacritic_platform": "switch",
         "metascore": "80",
-        "userscore": "87",
+        "userscore": "83",
         "release": "20190521",
         "description": "The game that defined the survival-horror genre is back! Check out the remastered HD version of Resident Evil.\r\n\r\nIn 1998 a special forces team is sent to investigate some bizarre murders on the outskirts of Raccoon City. Upon arriving they are attacked by a pack of blood-thirsty dogs and are forced to take cover in a nearby mansion. But the scent of death hangs heavy in the air. Supplies are scarce as they struggle to stay alive.\r\n\r\nGraphics:\r\n\r\n*    More detailed graphics that retain the horror.\r\n*    The environments come alive with detail thanks to resolution upgrades and non-static 3D models.\r\n*    Post-processing effects like Bloom filters, which were not easy to do at the time of the original release, have been added to make the HD graphics even more realistic.\r\n*    High-Resolution Environments - We've increased the resolution of the background environments by recreating them with a mix of high-res static images, plus animated 3D models.\r\n*    Widescreen (16:9) is supported, so players can experience a greater sense of immersion.\r\nIn widescreen mode, the screen will scroll. The parts of the screen that get cut off on the top and bottom will scroll into view automatically depending on the character's position.\r\n*    You can switch the display mode during gameplay in real time.\r\n\r\nSound: \r\n\r\n*    High-Quality Sound - The audio has been remastered to increase the sampling rate, and of course 5.1ch output is also now supported.\r\n*    You can play using the original control scheme or an alternate control scheme that lets you just push the analog stick to move in the direction you want to go.\r\n*    You can switch the control scheme during gameplay in real time.",
         "AgeRating": 17,
@@ -36781,7 +36783,7 @@
     },
     "010079100CD8A000": {
         "id": "010079100CD8A000",
-        "nsuId": 70010000018952,
+        "nsuId": 70010000018954,
         "name": "Super Trench Attack",
         "eshop_name": "SUPER TRENCH ATTACK",
         "metacritic_platform": "switch",
@@ -36789,15 +36791,19 @@
         "userscore": null,
         "release": "20191219",
         "description": "",
-        "AgeRating": 7,
+        "AgeRating": 10,
         "category": [
             "Arcade",
+            "Action",
             "Adventure",
-            "Shooter",
-            "Action"
+            "Shooter"
         ],
         "ratingContent": [
-            "Mild Violence"
+            "Crude Humor",
+            "Fantasy Violence",
+            "Mild Blood",
+            "Simulated Gambling",
+            "Use of Alcohol and Tobacco"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/super-trench-attack"
     },
@@ -57231,7 +57237,7 @@
         "name": "The Touryst",
         "eshop_name": "The Touryst",
         "metacritic_platform": "switch",
-        "metascore": "82",
+        "metascore": "81",
         "userscore": "86",
         "release": "20191121",
         "description": "You are just arriving at the Monument Islands. Want to go swimming? Or rather take a dive into the deep sea? Or do you want to visit the amusement arcade, do some shopping, dance at the beach party? Fancy some surfing? Or will you talk with the strange old tourist and listen what he has to say about these ancient mysterious monuments..",
@@ -57901,6 +57907,28 @@
             "Fantasy Violence"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/sky-rogue"
+    },
+    "0100C5B009804000": {
+        "id": "0100C5B009804000",
+        "nsuId": 70010000006255,
+        "name": "Arcade Archives: Mat Mania Exciting Hour",
+        "eshop_name": "Arcade Archives MAT MANIA EXCITING HOUR",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191219",
+        "description": "'MAT MANIA EXCITING HOUR' is a wrestling game that was released from 'Technos Japan' in 1985.   Players use variety techniques to be the champion. Enjoy the challenge of facing five strong wrestlers!    \r\n\r\nAdditional hardware required for Remote Play.",
+        "AgeRating": 6,
+        "category": [
+            "Fighting",
+            "Action",
+            "Arcade",
+            "Sports"
+        ],
+        "ratingContent": [
+            "Mild Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/arcade-archives-mat-mania-exciting-hour"
     },
     "0100C5D00EDB8000": {
         "id": "0100C5D00EDB8000",
@@ -62619,7 +62647,7 @@
         "name": "Tokyo Dark: Remembrance",
         "eshop_name": "Tokyo Dark \u2013 Remembrance \u2013",
         "metacritic_platform": "switch",
-        "metascore": "72",
+        "metascore": "73",
         "userscore": null,
         "release": "2019117",
         "description": "Detective Ito`s partner is missing, but what starts as a straightforward case soon spirals into a twisted nightmare that causes Ito to confront her past and question her own sanity.\r\n\r\nTokyo Dark places the narrative in your hands. Your decisions and actions change Detective Ito's state of mind, opening doors to different possibilities as you attempt to find your partner and understand the dark and horrifying world around you.",
