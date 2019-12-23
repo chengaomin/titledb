@@ -4169,7 +4169,7 @@
         "eshop_name": "Brothers: A Tale of Two Sons",
         "metacritic_platform": "switch",
         "metascore": "79",
-        "userscore": "79",
+        "userscore": "81",
         "release": "20190528",
         "description": "Guide two brothers on an epic fairy tale journey from visionary Swedish film director, Josef Fares and top-tier developer Starbreeze Studios. Control both brothers at once as you experience co-op play in single player mode, like never before. Solve puzzles, explore the varied locations and fight boss battles, controlling one brother with each thumb stick. This is one journey you will never forget.",
         "AgeRating": 13,
@@ -7292,7 +7292,7 @@
         "eshop_name": "New Super Lucky's Tale",
         "metacritic_platform": "switch",
         "metascore": "75",
-        "userscore": "81",
+        "userscore": "80",
         "release": "2019118",
         "description": "The adventure of a young fox who embarks on a journey through the unknown and becomes a hero.",
         "AgeRating": 6,
@@ -7369,6 +7369,26 @@
             "Users Interact"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/resident-evil-5"
+    },
+    "010018100F688000": {
+        "id": "010018100F688000",
+        "nsuId": 70010000023172,
+        "name": "Princess Maker: Go! Go! Princess",
+        "eshop_name": "Princess Maker Go!Go! Princess",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191223",
+        "description": "All of Princess Maker's daughters gathered in one place! Fighting and Life simulation game by using the dice!\n\nThe elements of the Princess Maker series remain intact!\n\nThe ability status is up through various events, training, and part-time jobs in the field!\n\nRival, study, part-time job and love....\n\nThe tumultuous eight years will begin on the board!\n\nOnly the dice knows the destiny!\n\nUzu and Cube The navigator to help your daughter. \n\nThrow a dice and go on an adventure with the friend who will decide your daughter's fate!\n\nThe desperate competition to take a step closer to the prince!\n\nThere are more than 100 various events waiting on the road.\n\nThere will also be a confrontation that can't be backed down for a happy future!\n\nSupport to play with up to 4 players, Princess Maker Go! Go! Princess \n\nWho will become a princess?",
+        "AgeRating": 6,
+        "category": [
+            "Simulation",
+            "Board Game",
+            "Strategy",
+            "Multiplayer"
+        ],
+        "ratingContent": [],
+        "metacritic_url": "https://www.metacritic.com/game/switch/princess-maker-go!-go!-princess"
     },
     "010018300C83A000": {
         "id": "010018300C83A000",
@@ -7476,6 +7496,29 @@
             "Mild Cartoon Violence"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/pokemon-lets-go-eevee!"
+    },
+    "010018700A5EC000": {
+        "id": "010018700A5EC000",
+        "nsuId": 70010000009370,
+        "name": "Princess Maker: Fairy Tales Come True",
+        "eshop_name": "PRINCESS MAKER -FAERY TALES COME TRUE-",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191223",
+        "description": "A lovable and sensible simulation game to raise a girl who has visited you to make her dreams come true.\n\nA lovable and sensible simulation game to raise a girl who has visited you to make her dreams come true.\n\nAn upgraded version of the classic simulation game has come back on the Nintendo Switch with many updates! \"PRINCESS MAKER -FAERY TALES COME TRUE-\" has come back with newly revamped HD graphics, a new interface, new music tracks, and much more.\n\nThe Faery's Dream is to Become a Princess \n\nThe tiny faery's dream is to become a princess.\nIt will be a difficult path to achieve this dream as no one has ever done it before. The Faery Queen turned the faery into a human girl so that she may fulfill her wishes.\n\n8 Years With the Girl\n\nThe Faery Queen has provided a time limit of 8 years to be with the girl.\nHow will you raise this girl into a grown woman?\n\nThe Player's (Father's) Occupation will have an Effect on the Princess\n\nThe player can choose from 6 jobs: retired knight, bankrupt aristocrat, merchant, wanderer, traveling monk, or traveling entertainer.\nDepending on your occupation, the life of the girl and how she grows up will change.\n\nCompete with Competitors at the Harvest Festival!\n\nEvery year, there will be a Harvest Festival where your daughter will meet many rivals! They will compete with each other in intelligence, physical prowess, charm, and many more!\n\nMultiple Endings!\n\nDepending on your choices, the future of your daughter will change.\nHow will you help to grant your daughter's dream?\nHow your daughter ends up will be entirely up to you.",
+        "AgeRating": 17,
+        "category": [
+            "Simulation",
+            "Strategy",
+            "Adventure",
+            "RPG"
+        ],
+        "ratingContent": [
+            "Nudity",
+            "Sexual Themes"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/princess-maker-fairy-tales-come-true"
     },
     "010018800C7D2000": {
         "id": "010018800C7D2000",
@@ -9831,6 +9874,25 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/bear-with-me-the-complete-collection"
     },
+    "010020900E7A8000": {
+        "id": "010020900E7A8000",
+        "nsuId": 70010000024763,
+        "name": "Rush Rally 3",
+        "eshop_name": "Rush Rally 3",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191223",
+        "description": "60 FPS racing at night or day in the rain or snow! Over 72 new and unique stages each with different surface types including snow, gravel, tarmac and dirt! Race with one of the best car dynamics models to date, including real time vehicle deformation and damage, built from over 15 years of experience.",
+        "AgeRating": 6,
+        "category": [
+            "Racing",
+            "Simulation",
+            "Sports"
+        ],
+        "ratingContent": [],
+        "metacritic_url": "https://www.metacritic.com/game/switch/rush-rally-3"
+    },
     "0100211005E94000": {
         "id": "0100211005E94000",
         "nsuId": 70010000001492,
@@ -10006,7 +10068,7 @@
         "eshop_name": "Blazing Beaks",
         "metacritic_platform": "switch",
         "metascore": "79",
-        "userscore": "79",
+        "userscore": null,
         "release": "20190510",
         "description": "Blaze your way armed to the beak through hordes of mutants, monsters & other creepy creatures. But beware, collecting too many shiny things can hurt you in this unique rogue-lite game.",
         "AgeRating": 10,
@@ -10234,7 +10296,7 @@
         "eshop_name": "Yu-Gi-Oh! Legacy of the Duelist: Link Evolution",
         "metacritic_platform": "switch",
         "metascore": "79",
-        "userscore": "84",
+        "userscore": "82",
         "release": "20190820",
         "description": "Experience over 20 years of Yu-Gi-Oh! history with Yu-Gi-Oh! Legacy of the Duelist: Link Evolution on Nintendo Switch. Build your Deck from over 9,000 cards and take on the most iconic Duelists from the Yu-Gi-Oh! universe. Relive the stories from the original animated Yu-Gi-Oh! series through Yu-Gi-Oh! ARC-V, and challenge the newest generation of Duelists from the virtual world of Yu-Gi-Oh! VRAINS!",
         "AgeRating": 13,
@@ -13459,7 +13521,7 @@
         "eshop_name": "Tales of Vesperia\u2122: Definitive Edition",
         "metacritic_platform": "switch",
         "metascore": "83",
-        "userscore": "78",
+        "userscore": "77",
         "release": "20190111",
         "description": "Tales of Vesperia: Definitive Edition celebrates the 10th anniversary of this RPG with new fully playable characters, events and other additional content never released outside of Japan. Follow Yuri Lowell, a former Imperial Knight, as he befriends a colorful cast of characters throughout the world of Terca Lumireis and finds himself in the middle of a nefarious plot that threatens the destruction of the entire planet.",
         "AgeRating": 13,
@@ -13483,7 +13545,7 @@
         "eshop_name": "Tales of Vesperia\u2122: Definitive Edition Costume Pack",
         "metacritic_platform": "switch",
         "metascore": "83",
-        "userscore": "78",
+        "userscore": "77",
         "release": "20190111",
         "description": "Tales of Vesperia: Definitive Edition celebrates the 10th anniversary of this RPG with new fully playable characters, events and other additional content never released outside of Japan. Follow Yuri Lowell, a former Imperial Knight, as he befriends a colorful cast of characters throughout the world of Terca Lumireis and finds himself in the middle of a nefarious plot that threatens the destruction of the entire planet.",
         "AgeRating": 13,
@@ -14610,6 +14672,29 @@
             "Fantasy Violence"
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/witch-thief"
+    },
+    "01002FF00F460000": {
+        "id": "01002FF00F460000",
+        "nsuId": 70010000022684,
+        "name": "Warhammer Quest 2: The End Times",
+        "eshop_name": "Warhammer Quest 2: The End Times",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191223",
+        "description": "In Warhammer Quest 2: The End Times, you will lead your warriors across a war torn land and into dungeons for wealth and glory! Swing swords, fire arrows and cast spells as you fight through the denizens of Chaos that threaten the Warhammer world. Success in battle is rewarded with new weapons, armours, skills and treasure...\n\nExplore a war-torn fantasy world!\nBe on your guard as you travel through a world in turmoil. The road holds danger for the heedless traveller, but rich rewards for the wary hero.\n\n* Explore three regions, each with their own enemy sets, objectives and multi-part campaign quests.\n* Visit towns to barter in markets, discover new quests, and level up your warriors to gain new skills and gameplay possibilities.\n* Paths between dungeons are littered with events and opportunities to improve your chance of victory in the next turn based battle!\n\n3 REGIONS AND 27 SETTLEMENTS TO EXPLORE\nBattle through deadly dungeons!\nExperience all the peril and danger of the Warhammer world as you battle your enemies through Chaos ridden dungeons.\n\n* Encounters come to life as your warriors enter the fray with a vast array of weapons and skills.\n* Hold your enemies back with fire, use ice to freeze them to the spot, or poison them with lethal toxins.\n* Attack with magic staffs, explosive pistols and flaming hammers. If all else fails use legendary armour or mystical robes to deflect attacks.\n\nOVER 200 WEAPONS, ARMOR, AND ITEMS TO COLLECT\nHeroes and Enemies!\nA variety of different heroes and enemies bring huge tactical variety to the dungeons. From Sorceresses and Mages, to Witch Hunters and Knights. Find which characters best suit your playstyle.\n\n* Choose from 12 different Hero classes. All with unique weapons, armours, skills and items!\n* Battle over 40 types of enemies, ranging from simple minded Beastmen to devious Skaven Seers and monstrous Trolls!\n* Collect and equip over 200 different weapons, items and armours. Figure out which combination is most effective for bashing the enemy!\n\n12 DIFFERENT HERO CLASSES\nEasy to learn, hard to master. Engage in deep tactical gameplay as you encounter new enemies with new devious abilities that will test your strategic ability to its limits.\n\nCan you defeat the Chaos invasion? Only the mightiest will survive in Warhammer Quest 2: The End Times!",
+        "AgeRating": 10,
+        "category": [
+            "RPG",
+            "Strategy",
+            "Board Game"
+        ],
+        "ratingContent": [
+            "Alcohol Reference",
+            "Fantasy Violence",
+            "Mild Blood"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/warhammer-quest-2-the-end-times"
     },
     "01002FF00FBBE000": {
         "id": "01002FF00FBBE000",
@@ -16088,6 +16173,28 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/spaceland"
     },
+    "010034D00F330000": {
+        "id": "010034D00F330000",
+        "nsuId": 70010000022600,
+        "name": "DreamBall",
+        "eshop_name": "DreamBall",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191223",
+        "description": "Welcome to DreamBall, the first sports video game with ragdoll physics, set in dreams with which you will enjoy of the craziest matches ever. Play up in the space, under de sea, in a pirate island\u2026 Let your imagination fly or let be carried by ours.",
+        "AgeRating": 10,
+        "category": [
+            "Multiplayer",
+            "Party",
+            "Sports",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/dreamball"
+    },
     "010034E005C9C000": {
         "id": "010034E005C9C000",
         "nsuId": 70010000001438,
@@ -16303,6 +16410,27 @@
         ],
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/puzzle-puppers"
+    },
+    "010035901046C000": {
+        "id": "010035901046C000",
+        "nsuId": 70010000026437,
+        "name": "Mushroom Quest",
+        "eshop_name": "Mushroom Quest",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191223",
+        "description": "Mushroom Quest is based on the addictive and brain-busting principles of the \u201cblocks-moving\u201d puzzle games but add some innovative gameplay elements. Take your time to solve the riddles and pass each level\u2026if you can. Seven out of ten testers could not play further than the 15th level. Will you be creative enough to find your way out of the 30 mazes?",
+        "AgeRating": 6,
+        "category": [
+            "Puzzle",
+            "Board Game",
+            "Strategy"
+        ],
+        "ratingContent": [
+            "Mild Fantasy Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/mushroom-quest"
     },
     "010035A0044E8000": {
         "id": "010035A0044E8000",
@@ -20825,7 +20953,7 @@
         "eshop_name": "Assassin\u2019s Creed\u00ae: The Rebel Collection",
         "metacritic_platform": "switch",
         "metascore": "80",
-        "userscore": "82",
+        "userscore": "81",
         "release": "2019126",
         "description": "Become the most feared pirate in the Caribbean in Assassin\u2019s Creed IV Black Flag. Take part in an award-winning naval experience and explore a massive open world. Become the ultimate assassin hunter in Assassin\u2019s Creed\u00ae Rogue, and play as a Templar for the first time in franchise history. Experience enhanced features like Handheld Mode, HD Rumble, Touch Screen Interface, and Motion Control Aiming.",
         "AgeRating": 17,
@@ -20850,7 +20978,7 @@
         "eshop_name": "Assassin's Creed\u00ae: The Rebel Collection \u2013 Extra Content",
         "metacritic_platform": "switch",
         "metascore": "80",
-        "userscore": "82",
+        "userscore": "81",
         "release": "2019126",
         "description": "Become the most feared pirate in the Caribbean in Assassin\u2019s Creed IV Black Flag. Take part in an award-winning naval experience and explore a massive open world. Become the ultimate assassin hunter in Assassin\u2019s Creed\u00ae Rogue, and play as a Templar for the first time in franchise history. Experience enhanced features like Handheld Mode, HD Rumble, Touch Screen Interface, and Motion Control Aiming.",
         "AgeRating": 17,
@@ -22117,7 +22245,7 @@
         "eshop_name": "Tangledeep",
         "metacritic_platform": "switch",
         "metascore": "79",
-        "userscore": "82",
+        "userscore": "78",
         "release": "20190131",
         "description": "Enter the magical world of Tangledeep, a beautifully polished dungeon crawler inspired by classic 16-bit RPGs! Colorful characters, a unique job system, tons of skills, items, and diverse environments with deep, turn-based roguelike gameplay. A different adventure every time you play.",
         "AgeRating": 10,
@@ -22162,7 +22290,7 @@
         "eshop_name": "Octahedron: Transfixed Edition",
         "metacritic_platform": "switch",
         "metascore": "79",
-        "userscore": "77",
+        "userscore": "79",
         "release": "20190117",
         "description": "Surf through a pulsating underworld on platforms YOU pull from thin air, where and when you want, in this psychedelic action platformer. Unlock devastating abilities across 50+ hand crafted levels as you defy gravity to a pumping beat.\r\n\r\nFry enemies with laser beams, crumble walls, and solve puzzles, while obstacles & enemies move along with the beat. Ascend through the subterranean world of Veetragoul as you lose yourself to a pulse-pounding soundtrack from Chipzel, Andre Sobota, Derek Howell and Monomirror.\r\n\r\nEnjoy brand new features & content exclusive to the Transfixed Edition: New time trial medals, dozens of new special challenges and new post-game unlockables",
         "AgeRating": 10,
@@ -26163,7 +26291,7 @@
         "eshop_name": "Shovel Knight: Treasure Trove",
         "metacritic_platform": "switch",
         "metascore": "91",
-        "userscore": "81",
+        "userscore": "82",
         "release": "2017033",
         "description": "Shovel Knight: Treasure Trove is the full and complete edition of Shovel Knight, a sweeping classic action adventure game series with awesome gameplay, memorable characters, and an 8-bit retro aesthetic! Become Shovel Knight, wielder of the Shovel Blade, as he runs, jumps, and battles in a quest for his lost beloved. Take down the nefarious knights of the Order of No Quarter and their menacing leader, The Enchantress.\r\n\r\nBut that's not everything! Shovel Knight: Treasure Trove also features three additional campaigns that are games all unto themselves! Take control of Plague Knight, Specter Knight, and King Knight on adventures of their own! Together, they form a grand and sweeping saga!\r\n\r\nWith a fully cooperative campaign, a full-featured challenge mode, a 4 player battle mode, and body swap mode, you'll be digging for a long time. With Shovel Knight: Treasure Trove, you get it all. Uphold the virtues of Shovelry, earn relics and riches, and discover the true meaning of shovel justice!",
         "AgeRating": 6,
@@ -27793,6 +27921,27 @@
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/percys-predicament-deluxe"
     },
+    "01005CE00F970000": {
+        "id": "01005CE00F970000",
+        "nsuId": 70010000023724,
+        "name": "Sacred Stones",
+        "eshop_name": "Sacred Stones",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191223",
+        "description": "One day, the sky island begins to fall. The sacred stones that keep the heavens floating are scattered for unknown reasons. To prevent falling the sky island, the main character goes out looking for the whereabouts of the sacred stone. Giant animal and unknown creatures start to show up unexpectedly on the island. Indeed, is it possible to protect the falling sky island during facing the giant monster?",
+        "AgeRating": 17,
+        "category": [
+            "Action",
+            "Platformer"
+        ],
+        "ratingContent": [
+            "Blood and Gore",
+            "Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/sacred-stones"
+    },
     "01005D100807A000": {
         "id": "01005D100807A000",
         "nsuId": 70010000003482,
@@ -28841,6 +28990,29 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/monster-bugs-eat-people"
     },
+    "01005FD00F15A000": {
+        "id": "01005FD00F15A000",
+        "nsuId": 70010000022311,
+        "name": "Regions of Ruin",
+        "eshop_name": "Regions of Ruin",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191223",
+        "description": "Regions of Ruin is a 2D side-scrolling RPG with town-building where you are introduced to an open world that progressively challenges your hero and settlement the further you delve into the vast continent. You will discover a foreboding land ravaged by hundreds of years of hardship. Where, kingdoms have risen and fallen, settlements have been laid to waste and overrun by warring groups, and great mysteries lay hidden and waiting to be unearthed - assuming you can defeat their jealous guardians.",
+        "AgeRating": 10,
+        "category": [
+            "RPG",
+            "Action",
+            "Strategy",
+            "Platformer"
+        ],
+        "ratingContent": [
+            "Fantasy Violence",
+            "Mild Blood"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/regions-of-ruin"
+    },
     "01005FE00EC4E000": {
         "id": "01005FE00EC4E000",
         "nsuId": 70010000021472,
@@ -29554,7 +29726,7 @@
         "eshop_name": "Ori and the Blind Forest: Definitive Edition",
         "metacritic_platform": "switch",
         "metascore": "89",
-        "userscore": "88",
+        "userscore": "89",
         "release": "20190927",
         "description": "Ori and the Blind Forest: Definitive Edition delivers a multitude of new areas, difficulty options, and gameplay upgrades that should appeal to both new and seasoned Ori players.",
         "AgeRating": 6,
@@ -34090,7 +34262,7 @@
         "eshop_name": "Darksiders II Deathinitive Edition",
         "metacritic_platform": "switch",
         "metascore": "77",
-        "userscore": "78",
+        "userscore": "79",
         "release": "20190926",
         "description": "What starts with War, ends in Death. \r\n\r\nAwakened by the End of Days, Death, the most feared of the legendary Four Horsemen, embarks upon a quest to restore mankind, and redeem his brother's name. Along the way, the Horseman discovers that there are far worse things than an earthly Apocalypse, and that an ancient grudge may threaten all of Creation ... \r\n\r\nDeathinitive Edition Features: \r\n\r\n- Darksiders II with all DLC included and integrated into the game which offers a total playtime of more than 30 hours \r\n- Improved Graphic Render Engine for higher visual quality especially in terms of lighting and shadows \r\n- Improved and reworked level, character and environment graphics \r\n- Running in native 1080p resolution \r\n- Reworked and tuned game balancing and loot distribution",
         "AgeRating": 17,
@@ -36233,7 +36405,7 @@
         "eshop_name": "Spyro\u2122 Reignited Trilogy",
         "metacritic_platform": "switch",
         "metascore": "79",
-        "userscore": "85",
+        "userscore": "83",
         "release": "2019093",
         "description": "The original roast master is back! Same sick burns, same smoldering attitude, now all scaled up in stunning HD. Spyro is bringing the heat like never before in the Spyro Reignited Trilogy game collection. Rekindle the fire with the original three games, Spyro the Dragon, Spyro 2: Ripto's Rage! and Spyro: Year of the Dragon. Explore the expansive realms, re-encounter the fiery personalities and relive the adventure in fully remastered glory. Because when there's a realm that needs saving, there's only one dragon to call.",
         "AgeRating": 10,
@@ -37748,7 +37920,7 @@
         "eshop_name": "Devil May Cry 2",
         "metacritic_platform": "switch",
         "metascore": "53",
-        "userscore": "82",
+        "userscore": "83",
         "release": "20190919",
         "description": "Dante, the world's most stylish demon slayer is back to shake the legions of the underworld to their knees in Devil May Cry 2. This time, Dante has a new devilish partner: Lucia, a mysterious and acrobatic heroine. Don't let Dante's handsome face lull you, as he has some moves of his own, including running and jumping on walls, aerial kicking, and the ability to simultaneously shoot in two directions. Unleash your inner demon as you battle hoards of monsters in massive, hellish environments.",
         "AgeRating": 17,
@@ -39620,6 +39792,26 @@
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/arcade-archives-time-tunnel"
     },
+    "010084201056A000": {
+        "id": "010084201056A000",
+        "nsuId": 70010000026834,
+        "name": "Clumsy Rush",
+        "eshop_name": "Clumsy Rush",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191223",
+        "description": "Clumsy Rush is a fun-filled game that will have you and your friends laughing for hours. Move like a duck around, bump each other, steal the crown and have tons of fun together. Because time spent with friends is priceless.\r\n\r\nJust tap out a beat and move your feet! Left foot, right foot, left foot, right foot - find your rhythm.\r\n\r\nSee that shiny yellow thing that looks like a crown? That\u2019s what you\u2019re after! Grab it and run to the finish line. You can\u2019t be King of the Racing without a crown! Is your friend wearing the crown? Bump them, knock the crown off their head, then scoop it up and run, run, run!",
+        "AgeRating": 6,
+        "category": [
+            "Racing",
+            "Party",
+            "Multiplayer",
+            "Action"
+        ],
+        "ratingContent": [],
+        "metacritic_url": "https://www.metacritic.com/game/switch/clumsy-rush"
+    },
     "010084300C816000": {
         "id": "010084300C816000",
         "nsuId": 70010000016455,
@@ -39695,7 +39887,7 @@
         "eshop_name": "Team Sonic Racing\u2122",
         "metacritic_platform": "switch",
         "metascore": "71",
-        "userscore": "75",
+        "userscore": null,
         "release": "20190521",
         "description": "Team Sonic Racing combines the best elements of arcade and fast and fast-paced competitive style racing as you face-off with friends in off with friends in intense multiplayer racing. Race together and work as a team by sharing power-ups and speed boosts. Take control of your racing style -- Choose from 3 distinct character types and unlock game changing vehicle customisation options to suit your racing style. Speed up. Gear Up -- Team Racing at Sonic Speed!",
         "AgeRating": 3,
@@ -43750,7 +43942,7 @@
         "eshop_name": "Team Sonic Racing",
         "metacritic_platform": "switch",
         "metascore": "71",
-        "userscore": "75",
+        "userscore": null,
         "release": "20190521",
         "description": "Team Sonic Racing combines the best elements of arcade and fast and fast-paced competitive style racing as you face-off with friends in off with friends in intense multiplayer racing. Race together and work as a team by sharing power-ups and speed boosts. Take control of your racing style -- Choose from 3 distinct character types and unlock game changing vehicle customisation options to suit your racing style. Speed up. Gear Up -- Team Racing at Sonic Speed!",
         "AgeRating": 6,
@@ -43813,7 +44005,7 @@
         "eshop_name": "Octahedron: Transfixed Edition Demo",
         "metacritic_platform": "switch",
         "metascore": "79",
-        "userscore": "77",
+        "userscore": "79",
         "release": "20190117",
         "description": "Surf through a pulsating underworld on platforms YOU pull from thin air, where and when you want, in this psychedelic action platformer. Unlock devastating abilities across 50+ hand crafted levels as you defy gravity to a pumping beat.\r\n\r\nFry enemies with laser beams, crumble walls, and solve puzzles, while obstacles & enemies move along with the beat. Ascend through the subterranean world of Veetragoul as you lose yourself to a pulse-pounding soundtrack from Chipzel, Andre Sobota, Derek Howell and Monomirror.\r\n\r\nEnjoy brand new features & content exclusive to the Transfixed Edition: New time trial medals, dozens of new special challenges and new post-game unlockables",
         "AgeRating": 10,
@@ -44882,7 +45074,7 @@
         "eshop_name": "Crystal Crisis",
         "metacritic_platform": "switch",
         "metascore": "79",
-        "userscore": "82",
+        "userscore": "75",
         "release": "20190528",
         "description": "An all-star cast of heroes has gathered to test their mettle in Crystal Crisis, a cute and chaotic new color-matching combat game for Nintendo Switch. Crystal Crisis is presented like a one-on-one fighting game, but instead of pressing buttons to kick and punch, players arrange falling gems into matching colors to clear them from the screen and inflict damage on their opponents. It\u2019s the ultimate puzzle battle throw down.",
         "AgeRating": 10,
@@ -50586,7 +50778,7 @@
         "eshop_name": "The Stretchers\u2122",
         "metacritic_platform": "switch",
         "metascore": "76",
-        "userscore": "78",
+        "userscore": "79",
         "release": "2019118",
         "description": "",
         "AgeRating": 6,
@@ -51461,7 +51653,7 @@
         "eshop_name": "Heave Ho",
         "metacritic_platform": "switch",
         "metascore": "80",
-        "userscore": "78",
+        "userscore": "80",
         "release": "20190829",
         "description": "Heave Ho tasks up to four players with a simple goal \u2013 don\u2019t fall to your death! Players will use their own two hands and the outstretched grip of their friends to grapple across each level on their way to victory. Grab one another\u2019s hands, climb across dangling bodies, and swing your pals to safety in a wobbly, dangly mass of limbs. Customize your character with all manner of stylish accessories and zany accouterment in a vain attempt to remember who you are and which of your hands is the only thing between you and the plummet of doom.",
         "AgeRating": 10,
@@ -54028,6 +54220,29 @@
         ],
         "metacritic_url": "https://www.metacritic.com/game/switch/daemon-x-machina"
     },
+    "0100B6600FE06000": {
+        "id": "0100B6600FE06000",
+        "nsuId": 70010000025078,
+        "name": "Down to Hell",
+        "eshop_name": "Down to Hell",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191223",
+        "description": "The player takes on the role of a knight filled with hatred and struggle. During the game the protagonist will have to fight with various demons in order to save the mysterious girl that previously saved him.  During the gameplay the player using both weapons and magic will have to fight various terrifying demons.",
+        "AgeRating": 13,
+        "category": [
+            "Action",
+            "Arcade",
+            "Fighting",
+            "RPG"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Violence"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/down-to-hell"
+    },
     "0100B6700DEC2000": {
         "id": "0100B6700DEC2000",
         "nsuId": 70010000019198,
@@ -56014,6 +56229,29 @@
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/arcade-archives-10-yard-fight"
     },
+    "0100BE800E6D8000": {
+        "id": "0100BE800E6D8000",
+        "nsuId": 70010000020648,
+        "name": "Demon's Tilt",
+        "eshop_name": "DEMON'S TILT",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191223",
+        "description": "Turbo-Charged Pinball is back. Updated with bigger sprites, more baddies, more secrets and of course MORE BULLETS. Demon's Tilt pushes the limits of the Video Pinball genre with SHMUP & Hack N' Slash elements.",
+        "AgeRating": 10,
+        "category": [
+            "Arcade",
+            "Action",
+            "Simulation",
+            "Shooter"
+        ],
+        "ratingContent": [
+            "Fantasy Violence",
+            "Mild Blood"
+        ],
+        "metacritic_url": "https://www.metacritic.com/game/switch/demons-tilt"
+    },
     "0100BE9007E7E000": {
         "id": "0100BE9007E7E000",
         "nsuId": 70010000007004,
@@ -57237,8 +57475,8 @@
         "name": "The Touryst",
         "eshop_name": "The Touryst",
         "metacritic_platform": "switch",
-        "metascore": "81",
-        "userscore": "86",
+        "metascore": "80",
+        "userscore": "84",
         "release": "20191121",
         "description": "You are just arriving at the Monument Islands. Want to go swimming? Or rather take a dive into the deep sea? Or do you want to visit the amusement arcade, do some shopping, dance at the beach party? Fancy some surfing? Or will you talk with the strange old tourist and listen what he has to say about these ancient mysterious monuments..",
         "AgeRating": 6,
@@ -60696,7 +60934,7 @@
         "eshop_name": "Nuclear Throne",
         "metacritic_platform": "switch",
         "metascore": "89",
-        "userscore": "87",
+        "userscore": "88",
         "release": "20190320",
         "description": "The idea behind Vlambeer's Nuclear Throne is simple: it's a post-apocalyptic roguelike-like top-down shooter. Not 'the final hope of humanity' post-apocalyptic, but 'humanity is extinct and weird mutants and terrifying monsters now roam the world' post-apocalyptic.\r\n\r\nAll you need to do is take control of one of those mutants and shoot the things trying to kill you. Use simple weaponry like quintuple-barreled bazookas, super plasma cannons or exquisite cursed laser miniguns. Or the game might just hand you a screwdriver. Deal with it.\r\n\r\nMutate some new limbs and abilities as you go, and become the ultimate Throne hunter. Find secret vaults with game-changing crowns, discover rare overpowered weaponry, or compete in the worldwide Daily and Weekly challenges. All these things and more you could do if only you were good at this game. Can you reach the Nuclear Throne?",
         "AgeRating": 10,
@@ -61232,7 +61470,7 @@
         "eshop_name": "Atelier Ryza: Ever Darkness & the Secret Hideout",
         "metacritic_platform": "switch",
         "metascore": "83",
-        "userscore": "82",
+        "userscore": "83",
         "release": "20191029",
         "description": "Even though everyone has them,\r\nthe memories we create with our friends are\r\nspecial to each and every one of us. The story of \"Atelier Ryza\" is\r\nabout a girl and her friends on the\r\nverge of adulthood,\r\ndiscovering what is most important to them.",
         "AgeRating": 13,
@@ -61499,7 +61737,7 @@
         "eshop_name": "Salt and Sanctuary",
         "metacritic_platform": "switch",
         "metascore": "82",
-        "userscore": "81",
+        "userscore": "79",
         "release": "2018082",
         "description": "A doomed sailor is shipwrecked on an uncharted island. In fog-shrouded valleys, where grinning, mossy corpses cling to rusted arms, shambling figures begin to stir. Beneath crumbling, salt-worn structures, labyrinthine passageways lead to unspeakable evil, long forgotten by man.\r\n\r\nSalt and Sanctuary seamlessly combines fast, brutal, and complex 2D combat with richly developed RPG mechanics. Discover, craft, and upgrade over 600 weapons, armor pieces, spells, and items as you explore a cursed realm of forgotten cities, blood-soaked dungeons, desecrated monuments, and the fallen lords they once celebrated.\r\n\r\nFrom Ska Studios, the award-winning indie studio behind a long list of stylistic, visceral, and brutally executed action titles that includes The Dishwasher: Vampire Smile, The Dishwasher: Dead Samurai, and Charlie Murder, comes Salt and Sanctuary, the studios most ambitious title to date.",
         "AgeRating": 17,
@@ -63296,7 +63534,7 @@
         "name": "Football Manager 2020 Touch",
         "eshop_name": "Football Manager 2020 Touch",
         "metacritic_platform": "switch",
-        "metascore": null,
+        "metascore": "77",
         "userscore": null,
         "release": "20191210",
         "description": "",
@@ -66010,7 +66248,7 @@
         "eshop_name": "Reventure",
         "metacritic_platform": "switch",
         "metascore": "83",
-        "userscore": "85",
+        "userscore": null,
         "release": "2019108",
         "description": "- One hundred different endings.\r\n\r\n        Choose your path, every decision leads to a new ending.\r\n\r\n        Will you find the real one? Is there such a thing?\r\n\r\n        Only one way to know...\r\n\r\n \r\n\r\n- Lots of \"Aha!\" moments.\r\n\r\n        The world doesn't change with each new game, you do.\r\n\r\n        Well, actually it DOES change, but that's a secret for you to find out.",
         "AgeRating": 13,
@@ -67108,7 +67346,7 @@
         "name": "Sublevel Zero Redux",
         "eshop_name": "Sublevel Zero Redux",
         "metacritic_platform": "switch",
-        "metascore": "74",
+        "metascore": "73",
         "userscore": null,
         "release": "20191017",
         "description": "Sublevel Zero Redux is a roguelite six-degree-of-freedom shooter set in a universe where reality is falling apart. With your gunship, fight in zero-g through a vast, procedurally generated underground facility to recover the technology you need to escape the many dangers hidden around every corner. Featuring a brand new expansion that adds hours of new content, the action is more intense than ever.",
@@ -69145,7 +69383,7 @@
         "eshop_name": "NARUTO SHIPPUDEN: Ultimate Ninja Storm Trilogy",
         "metacritic_platform": "switch",
         "metascore": "70",
-        "userscore": "76",
+        "userscore": "77",
         "release": "20180426",
         "description": "This collection includes Naruto: Ultimate Ninja Storm, Naruto: Ultimate Ninja Storm 2 and Naruto: Ultimate Ninja Storm 3 Full Burst.",
         "AgeRating": 13,
@@ -72948,6 +73186,26 @@
         ],
         "ratingContent": [],
         "metacritic_url": "https://www.metacritic.com/game/switch/monkey-wall"
+    },
+    "0100F9900D8C8000": {
+        "id": "0100F9900D8C8000",
+        "nsuId": 70010000018019,
+        "name": "Crazy Zen Mini Golf",
+        "eshop_name": "Crazy Zen Mini Golf",
+        "metacritic_platform": "switch",
+        "metascore": null,
+        "userscore": null,
+        "release": "20191223",
+        "description": "",
+        "AgeRating": 6,
+        "category": [
+            "Arcade",
+            "Sports",
+            "Party",
+            "Simulation"
+        ],
+        "ratingContent": [],
+        "metacritic_url": "https://www.metacritic.com/game/switch/crazy-zen-mini-golf"
     },
     "0100F9A008AD6000": {
         "id": "0100F9A008AD6000",
